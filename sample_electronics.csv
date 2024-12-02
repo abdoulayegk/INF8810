@@ -1,0 +1,1001 @@
+,item_id,user_id,rating,timestamp,model_attr,category,brand,year,user_attr,split
+742325,5366,548487,4.0,2016-01-22,Male,Portable Audio & Video,Sony,2014,Male,2
+119308,1124,113275,5.0,2013-01-10,Male,Computers & Accessories,Logitech,2009,Male,0
+173151,2140,163617,2.0,2013-08-13,Female,Portable Audio & Video,Pyle,2012,Male,0
+451963,5041,416258,5.0,2015-03-03,Male,Headphones,Bose,2014,Female,0
+993401,8751,893047,4.0,2016-11-28,Female,Accessories & Supplies,EldHus,2015,Male,0
+630514,4811,574612,3.0,2015-09-30,Male,Accessories & Supplies,Jabra,2014,Male,0
+910206,2223,820121,5.0,2016-08-01,Male,Portable Audio & Video,Uniden,2012,Male,0
+645187,7827,587576,5.0,2015-10-17,Female,Accessories & Supplies,Etre Jeune,2015,Male,0
+28491,302,27542,4.0,2009-05-08,Male,Car Electronics & GPS,Garmin,2006,Male,0
+878361,6396,792190,5.0,2016-06-23,Male,Headphones,Generic,2015,Male,0
+382091,1490,353406,4.0,2014-12-13,Female,Camera & Photo,Fujifilm,2010,Female,0
+768302,5741,695457,1.0,2016-02-16,Male,Computers & Accessories,LSS,2016,Male,0
+149935,1690,141971,5.0,2013-05-11,Female,Camera & Photo,Kodak,2011,Male,0
+781340,2355,404548,5.0,2016-02-29,Male,Headphones,Skullcandy,2012,Male,2
+953120,5424,857763,1.0,2016-09-25,Female,Headphones,Mpow,2014,Male,0
+1185444,3468,1062418,5.0,2017-10-26,Female,Portable Audio & Video,Pyle,2014,Male,0
+535253,2031,490439,1.0,2015-06-19,Female,Computers & Accessories,Logitech,2012,Male,0
+851093,2355,532698,5.0,2016-05-19,Male,Headphones,Skullcandy,2012,Female,2
+693527,7356,629989,2.0,2015-12-06,Female&Male,Headphones,Mpow,2015,Female,0
+443497,2788,408673,5.0,2015-02-23,Male,Computers & Accessories,Sennheiser,2013,Male,0
+577428,111,213906,5.0,2015-08-05,Female&Male,Headphones,Panasonic,2006,Male,0
+972635,7884,82979,3.0,2016-10-24,Female&Male,Headphones,Mpow,2015,Male,1
+1241432,8736,1111919,5.0,2018-03-06,Female&Male,Computers & Accessories,Fintie,2015,Female,0
+736727,7884,667522,5.0,2016-01-18,Female&Male,Headphones,Mpow,2015,Male,0
+1094891,4474,982668,5.0,2017-04-18,Female&Male,Headphones,Pyle,2015,Female,0
+791775,111,469053,4.0,2016-03-10,Female&Male,Headphones,Panasonic,2006,Male,2
+151215,2921,27999,5.0,2013-05-16,Male,Headphones,Jabra,2013,Male,1
+108721,1166,103243,5.0,2012-12-04,Male,Computers & Accessories,Logitech,2010,Male,0
+1060498,7828,952336,5.0,2017-02-21,Female&Male,Headphones,Bose,2015,Female,0
+1067830,8701,958782,5.0,2017-03-05,Female&Male,Headphones,EldHus,2015,Male,0
+1238976,3002,1109722,5.0,2018-02-28,Female&Male,Camera & Photo,Canon,2013,Male,0
+684043,3539,621706,5.0,2015-11-27,Female,Accessories & Supplies,EldHus,2013,Female,0
+598846,2728,546677,5.0,2015-08-27,Male,Camera & Photo,Sony,2013,Male,0
+892973,272,805004,5.0,2016-07-13,Female&Male,Headphones,EldHus,2006,Male,0
+921970,8859,816291,4.0,2016-08-16,Male,Camera & Photo,Polaroid,2016,Female,2
+253860,927,238276,5.0,2014-03-28,Female,Accessories & Supplies,EldHus,2009,Female,0
+1244806,9380,1114961,5.0,2018-03-13,Female&Male,Headphones,Panasonic,2016,Female,0
+599787,7869,469763,5.0,2015-08-28,Female,Headphones,Bose,2015,Male,1
+169301,1575,160020,3.0,2013-07-30,Male,Headphones,Sony,2011,Male,0
+824151,2366,744585,5.0,2016-04-18,Female,Camera & Photo,Polaroid,2012,Male,0
+421907,259,389298,4.0,2015-01-28,Male,Headphones,Sennheiser,2005,Male,0
+513946,4407,471526,5.0,2015-05-22,Male,Camera & Photo,Fujifilm,2014,Male,2
+186154,3173,175781,5.0,2013-10-03,Female&Male,Computers & Accessories,ViewSonic,2013,Male,0
+540237,3884,494844,4.0,2015-06-25,Male,Computers & Accessories,LSS,2014,Female,0
+933640,6437,840697,3.0,2016-08-30,Male,Headphones,TaoTronics,2015,Male,0
+865916,6819,781308,4.0,2016-06-07,Female&Male,Headphones,Mpow,2015,Male,0
+989175,9273,889343,5.0,2016-11-20,Female&Male,Headphones,Tiamat,2016,Male,0
+826973,4009,747034,5.0,2016-04-21,Female&Male,Portable Audio & Video,DBPOWER,2014,Female,0
+573726,3092,524491,4.0,2015-08-01,Female,Headphones,Sony,2013,Female,0
+15585,154,15138,5.0,2008-01-23,Female&Male,Headphones,EldHus,2005,Female,0
+693142,6687,629657,5.0,2015-12-06,Female&Male,Headphones,Mpow,2015,Male,0
+583039,647,337463,5.0,2015-08-11,Male,Computers & Accessories,Logitech,2008,Female,1
+169581,1258,160279,5.0,2013-07-31,Female&Male,Camera & Photo,Fujifilm,2010,Female,0
+971531,1124,873849,5.0,2016-10-22,Male,Computers & Accessories,Logitech,2009,Male,0
+261421,4028,245196,3.0,2014-04-19,Male,Camera & Photo,Fujifilm,2014,Male,0
+418184,5126,386015,1.0,2015-01-23,Male,Camera & Photo,Funlux,2014,Male,0
+921666,8775,830197,5.0,2016-08-15,Male,Computers & Accessories,Koolertron,2015,Female,0
+1176085,6819,1054180,4.0,2017-10-02,Female&Male,Headphones,Mpow,2015,Female,0
+382866,1575,354095,4.0,2014-12-15,Male,Headphones,Sony,2011,Female,0
+192185,1661,181382,5.0,2013-10-27,Male,Computers & Accessories,Logitech,2011,Female,0
+396720,1423,366578,5.0,2014-12-31,Female,Camera & Photo,Kodak,2010,Female,0
+455447,6396,360792,5.0,2015-03-08,Male,Headphones,Generic,2015,Female,0
+1094926,2864,813588,5.0,2017-04-18,Female&Male,Portable Audio & Video,DBPOWER,2014,Female,2
+316693,2129,295498,5.0,2014-08-26,Female&Male,Television & Video,Samsung,2012,Male,0
+36507,795,16657,4.0,2009-12-24,Female,Camera & Photo,Sony,2008,Male,0
+450773,3384,415202,5.0,2015-03-02,Female,Camera & Photo,Fujifilm,2014,Female,0
+920099,162,828796,4.0,2016-08-13,Male,Headphones,Sennheiser,2004,Male,0
+1078085,8736,967858,5.0,2017-03-20,Female&Male,Computers & Accessories,Fintie,2015,Male,0
+507176,3524,465541,5.0,2015-05-14,Male,Headphones,Skullcandy,2014,Female,0
+1261119,9380,1098481,4.0,2018-04-24,Female&Male,Headphones,Panasonic,2016,Male,2
+911158,8332,820954,1.0,2016-08-02,Female,Computers & Accessories,iRULU,2015,Female,0
+765528,2450,692994,5.0,2016-02-14,Female,Headphones,Sony,2014,Female,0
+17543,518,17043,5.0,2008-04-18,Female&Male,Television & Video,Panasonic,2007,Male,0
+139939,2031,132639,1.0,2013-03-29,Female,Computers & Accessories,Logitech,2012,Male,0
+373458,4373,345818,4.0,2014-12-02,Female&Male,Home Audio,Samsung,2014,Male,0
+34644,663,6910,5.0,2009-11-14,Female&Male,Camera & Photo,Olympus,2008,Male,0
+52449,647,50315,3.0,2010-12-13,Male,Computers & Accessories,Logitech,2008,Male,0
+894273,3807,143372,4.0,2016-07-14,Female,Camera & Photo,Gary Fong,2014,Female,2
+851304,2366,768477,5.0,2016-05-20,Female,Camera & Photo,Polaroid,2012,Male,0
+867874,111,783043,4.0,2016-06-09,Female&Male,Headphones,Panasonic,2006,Female,0
+488824,1447,449255,5.0,2015-04-20,Female&Male,Headphones,Bose,2010,Male,0
+1254337,1258,1123395,5.0,2018-04-06,Female&Male,Camera & Photo,Fujifilm,2010,Female,0
+835414,1564,754497,5.0,2016-05-01,Female,Camera & Photo,Savage,2012,Male,0
+560,13,551,4.0,2001-12-06,Female,Camera & Photo,Nikon,2000,Male,0
+1233634,8803,871308,5.0,2018-02-16,Female&Male,Camera & Photo,Fujifilm,2017,Female,2
+550917,6271,389822,4.0,2015-07-08,Female&Male,Headphones,Tiamat,2015,Male,0
+39749,1259,38242,3.0,2010-02-15,Male,Portable Audio & Video,Philips,2010,Female,0
+612116,17,558402,5.0,2015-09-10,Female,Camera & Photo,Fujifilm,2003,Female,0
+532185,6632,487710,3.0,2015-06-15,Male,Car Electronics & GPS,EINCAR,2017,Male,0
+105190,2063,30858,5.0,2012-11-14,Male,Camera & Photo,Sony,2012,Female,0
+117987,554,112043,5.0,2013-01-06,Male,Headphones,Sennheiser,2008,Male,0
+1241181,4009,1111695,4.0,2018-03-05,Female&Male,Portable Audio & Video,DBPOWER,2014,Male,0
+976593,3967,878280,1.0,2016-10-31,Female,Camera & Photo,Olympus,2014,Female,0
+1148181,4009,1029518,5.0,2017-08-04,Female&Male,Portable Audio & Video,DBPOWER,2014,Female,0
+256010,3364,240242,4.0,2014-04-03,Female&Male,Camera & Photo,Canon,2013,Female,0
+10562,465,10237,3.0,2007-05-21,Male,Camera & Photo,JVC,2007,Female,0
+776778,5402,702887,5.0,2016-02-24,Female,Wearable Technology,Sony,2014,Male,0
+164598,3145,155637,2.0,2013-07-11,Female,Computers & Accessories,Logitech,2013,Male,0
+100450,2129,95476,3.0,2012-09-28,Female&Male,Television & Video,Samsung,2012,Female,0
+970631,5041,873060,5.0,2016-10-21,Male,Headphones,Bose,2014,Male,0
+1259356,5146,1127783,5.0,2018-04-19,Female,Headphones,Jabra,2014,Female,0
+1088826,1605,977348,5.0,2017-04-06,Female,Camera & Photo,Neewer,2011,Female,0
+945620,6774,851229,1.0,2016-09-15,Female,Headphones,Mpow,2015,Female,0
+902175,4595,813057,3.0,2016-07-23,Female,Computers & Accessories,Fintie,2014,Female,0
+554776,1670,507738,5.0,2015-07-13,Female&Male,Headphones,Bose,2011,Female,0
+942149,4969,848178,5.0,2016-09-10,Male,Headphones,Bose,2015,Female,0
+835936,7395,754950,5.0,2016-05-01,Male,Camera & Photo,Funlux,2015,Female,0
+900901,1661,811937,4.0,2016-07-21,Male,Computers & Accessories,Logitech,2011,Male,0
+733284,8736,664522,4.0,2016-01-15,Female&Male,Computers & Accessories,Fintie,2015,Female,0
+348339,3403,323732,4.0,2014-10-20,Female&Male,Headphones,EldHus,2013,Female,0
+1256982,8195,1125686,4.0,2018-04-13,Female&Male,Headphones,Skullcandy,2015,Male,0
+1006820,5812,904850,4.0,2016-12-15,Male,Headphones,TaoTronics,2015,Male,0
+168651,2129,159407,5.0,2013-07-27,Female&Male,Television & Video,Samsung,2012,Female,0
+646002,4753,588292,1.0,2015-10-18,Female&Male,Portable Audio & Video,Pyle,2014,Male,0
+43660,236,41970,3.0,2010-05-22,Male,Headphones,Philips,2005,Male,0
+867838,6687,782881,5.0,2016-06-09,Female&Male,Headphones,Mpow,2015,Male,2
+573227,1124,524044,2.0,2015-08-01,Male,Computers & Accessories,Logitech,2009,Male,0
+72917,1760,66176,4.0,2011-11-13,Female,Computers & Accessories,Logitech,2011,Female,0
+1171741,6819,1050299,5.0,2017-09-22,Female&Male,Headphones,Mpow,2015,Male,0
+102113,2454,97034,4.0,2012-10-16,Female&Male,Television & Video,Pyle,2012,Female,0
+310183,4576,179602,5.0,2014-08-14,Female&Male,Headphones,EldHus,2014,Female,0
+420964,1690,388354,5.0,2015-01-27,Female,Camera & Photo,Kodak,2011,Female,2
+72929,1408,69674,4.0,2011-11-13,Female&Male,Camera & Photo,JVC,2010,Female,0
+488052,5245,448562,5.0,2015-04-18,Female,Computers & Accessories,Fintie,2014,Male,0
+432045,4230,398373,2.0,2015-02-10,Female&Male,Camera & Photo,Olympus,2014,Male,0
+1017223,827,914085,5.0,2016-12-28,Male,Home Audio,Pyle,2009,Male,0
+293971,1258,23833,5.0,2014-07-16,Female&Male,Camera & Photo,Fujifilm,2010,Male,1
+196674,1936,185525,4.0,2013-11-13,Female,Headphones,JLAB,2012,Female,0
+46400,1307,44580,5.0,2010-08-03,Female,Camera & Photo,Nikon,2010,Male,0
+29553,705,28557,3.0,2009-06-13,Female,Camera & Photo,Nikon,2008,Male,0
+963977,4144,867237,5.0,2016-10-11,Female,Computers & Accessories,EldHus,2014,Female,0
+74123,1889,17428,2.0,2011-11-28,Female,Camera & Photo,Kodak,2011,Female,1
+103239,1936,98087,2.0,2012-10-27,Female,Headphones,JLAB,2012,Male,0
+580762,4581,530715,5.0,2015-08-09,Female,Camera & Photo,Fintie,2014,Male,0
+472480,3136,434637,5.0,2015-03-29,Male,Computers & Accessories,Sennheiser,2013,Male,0
+1164882,9320,1027884,4.0,2017-09-06,Female&Male,Computers & Accessories,ebasy,2016,Male,2
+14803,283,14373,5.0,2007-12-31,Female&Male,Car Electronics & GPS,Garmin,2005,Female,0
+906309,5041,816688,5.0,2016-07-27,Male,Headphones,Bose,2014,Female,0
+362870,229,336518,5.0,2014-11-16,Male,Camera & Photo,Fujifilm,2005,Female,0
+124520,111,118169,3.0,2013-01-28,Female&Male,Headphones,Panasonic,2006,Female,0
+656777,1564,306499,5.0,2015-10-29,Female,Camera & Photo,Savage,2012,Female,2
+391869,259,362193,4.0,2014-12-27,Male,Headphones,Sennheiser,2005,Female,0
+578824,3544,528999,5.0,2015-08-07,Female&Male,Headphones,Sony,2014,Male,0
+1278537,8195,1144680,5.0,2018-06-19,Female&Male,Headphones,Skullcandy,2015,Female,0
+180796,1670,170800,5.0,2013-09-11,Female&Male,Headphones,Bose,2011,Male,0
+722465,5156,655122,5.0,2016-01-05,Female,Portable Audio & Video,Bose,2014,Female,0
+332024,4177,309323,5.0,2014-09-21,Female,Television & Video,Toshiba,2014,Male,0
+729571,1780,661302,2.0,2016-01-11,Male,Computers & Accessories,Logitech,2011,Female,0
+1018114,1861,914892,1.0,2016-12-29,Female,Accessories & Supplies,EldHus,2011,Male,0
+126216,1697,119789,5.0,2013-02-03,Female,Computers & Accessories,Logitech,2011,Female,0
+785119,5041,710232,5.0,2016-03-03,Male,Headphones,Bose,2014,Female,2
+1051165,7022,944135,3.0,2017-02-08,Male,Portable Audio & Video,Bose,2015,Female,0
+1141051,162,9376,5.0,2017-07-22,Male,Headphones,Sennheiser,2004,Male,2
+501928,5748,460893,5.0,2015-05-07,Female&Male,Portable Audio & Video,Mpow,2015,Male,0
+733990,7,665147,2.0,2016-01-15,Female,Home Audio,Philips,2001,Male,0
+1072216,2388,962639,3.0,2017-03-11,Female&Male,Headphones,JVC,2012,Female,0
+850534,1780,767806,5.0,2016-05-19,Male,Computers & Accessories,Logitech,2011,Male,0
+767098,6853,694380,5.0,2016-02-15,Female&Male,Headphones,Tiamat,2015,Male,0
+388007,154,358698,5.0,2014-12-22,Female&Male,Headphones,EldHus,2005,Female,0
+40731,869,39174,4.0,2010-03-09,Female,Camera & Photo,Kodak,2008,Male,0
+61636,1571,59050,4.0,2011-05-12,Female&Male,Camera & Photo,Samsung,2011,Male,0
+707250,1139,115318,5.0,2015-12-21,Female&Male,Portable Audio & Video,Apple,2009,Male,1
+1181371,8341,1058788,4.0,2017-10-16,Male,Camera & Photo,Neewer,2015,Male,0
+1045576,259,938758,5.0,2017-01-30,Male,Headphones,Sennheiser,2005,Male,2
+1285261,6689,674132,5.0,2018-07-16,Female&Male,Headphones,Mpow,2015,Male,2
+1096670,8835,253610,4.0,2017-04-21,Female,Headphones,Etre Jeune,2016,Male,2
+262431,2798,246104,4.0,2014-04-22,Female,Computers & Accessories,Fintie,2013,Female,0
+120357,1593,114160,5.0,2013-01-13,Female&Male,Camera & Photo,Canon,2011,Male,0
+1112237,7471,997913,5.0,2017-05-21,Male,Headphones,Skullcandy,2015,Male,0
+871467,8835,786156,5.0,2016-06-14,Female,Headphones,Etre Jeune,2016,Male,0
+1208431,1242,1082655,5.0,2017-12-22,Male,Headphones,Sennheiser,2010,Male,0
+677336,111,174769,5.0,2015-11-20,Female&Male,Headphones,Panasonic,2006,Male,0
+871659,5055,786330,5.0,2016-06-14,Male,Headphones,EldHus,2014,Female,0
+609882,4446,556405,5.0,2015-09-08,Female&Male,Headphones,TaoTronics,2014,Female,0
+374277,2129,346559,5.0,2014-12-03,Female&Male,Television & Video,Samsung,2012,Female,0
+568453,1124,519824,5.0,2015-07-27,Male,Computers & Accessories,Logitech,2009,Male,0
+366308,2868,165214,4.0,2014-11-21,Female,Camera & Photo,Samsung,2013,Female,2
+4835,262,4650,4.0,2005-10-07,Female,Camera & Photo,Kodak,2005,Male,0
+1122646,8341,1007010,4.0,2017-06-12,Male,Camera & Photo,Neewer,2015,Male,2
+271108,2031,254024,2.0,2014-05-18,Female,Computers & Accessories,Logitech,2012,Female,0
+477189,1652,173192,5.0,2015-04-04,Male,Camera & Photo,Kodak,2012,Male,2
+79556,1496,75932,5.0,2012-01-15,Female&Male,Headphones,JLAB,2010,Male,0
+65623,1055,62820,2.0,2011-07-24,Female,Computers & Accessories,Linksys,2009,Male,0
+505467,5081,464025,3.0,2015-05-11,Female,Accessories & Supplies,Etre Jeune,2014,Female,0
+1072302,3150,962715,5.0,2017-03-12,Male,Headphones,Philips,2013,Male,0
+1237225,17,252304,2.0,2018-02-25,Female,Camera & Photo,Fujifilm,2003,Female,1
+122968,144,116722,5.0,2013-01-22,Female,Computers & Accessories,Toshiba,2004,Female,0
+991683,7022,891561,5.0,2016-11-25,Male,Portable Audio & Video,Bose,2015,Female,0
+269169,3403,252241,5.0,2014-05-12,Female&Male,Headphones,EldHus,2013,Female,0
+612310,111,558578,5.0,2015-09-10,Female&Male,Headphones,Panasonic,2006,Male,0
+1163050,8892,743964,5.0,2017-09-03,Female,Camera & Photo,Fujifilm,2016,Female,2
+362065,1258,335767,5.0,2014-11-14,Female&Male,Camera & Photo,Fujifilm,2010,Female,2
+1136508,1575,1019261,3.0,2017-07-13,Male,Headphones,Sony,2011,Female,0
+418128,4542,385969,5.0,2015-01-23,Male,Computers & Accessories,Logitech,2014,Female,0
+181411,2095,171369,5.0,2013-09-14,Female,Camera & Photo,Canon,2012,Male,0
+1184321,8862,1061428,3.0,2017-10-24,Female&Male,Camera & Photo,Neewer,2016,Male,0
+1219756,1375,1092659,5.0,2018-01-15,Female,Camera & Photo,Savage,2017,Female,0
+151447,2931,143346,5.0,2013-05-17,Female,Camera & Photo,Samsung,2013,Female,0
+1072878,1575,963217,1.0,2017-03-13,Male,Headphones,Sony,2011,Female,0
+626446,8109,571041,5.0,2015-09-26,Female,Computers & Accessories,Fintie,2015,Female,0
+71882,1750,68693,3.0,2011-10-31,Male,Accessories & Supplies,Jabra,2011,Female,0
+670194,5748,609580,3.0,2015-11-12,Female&Male,Portable Audio & Video,Mpow,2015,Male,0
+1056188,647,783043,2.0,2017-02-15,Male,Computers & Accessories,Logitech,2008,Female,2
+596040,6689,544184,5.0,2015-08-24,Female&Male,Headphones,Mpow,2015,Female,0
+793085,7349,717396,1.0,2016-03-11,Female&Male,Camera & Photo,Fujifilm,2015,Female,0
+666143,4969,333048,5.0,2015-11-08,Male,Headphones,Bose,2015,Female,2
+1210912,9537,502892,4.0,2017-12-28,Female&Male,Headphones,Panasonic,2017,Female,2
+836437,4876,755400,5.0,2016-05-02,Male,Computers & Accessories,XShields,2014,Female,0
+584580,1124,534071,5.0,2015-08-13,Male,Computers & Accessories,Logitech,2009,Male,0
+180737,2238,170744,5.0,2013-09-11,Female,Television & Video,Philips,2012,Male,0
+858671,7117,403936,5.0,2016-05-29,Male,Computers & Accessories,Kensington,2015,Female,2
+796325,1780,720252,5.0,2016-03-15,Male,Computers & Accessories,Logitech,2011,Female,0
+20124,647,19522,5.0,2008-08-04,Male,Computers & Accessories,Logitech,2008,Female,0
+506648,3403,464967,5.0,2015-05-13,Female&Male,Headphones,EldHus,2013,Female,1
+520148,827,477066,5.0,2015-05-31,Male,Home Audio,Pyle,2009,Male,0
+68182,1590,65254,5.0,2011-09-05,Female,Camera & Photo,Nikon,2011,Male,0
+243256,1436,228526,5.0,2014-02-28,Female,Camera & Photo,Nikon,2010,Female,0
+901001,8282,812026,4.0,2016-07-21,Female,Accessories & Supplies,EldHus,2015,Female,0
+930941,8350,838348,2.0,2016-08-27,Male,Headphones,Skullcandy,2015,Male,0
+32509,710,31351,1.0,2009-09-15,Female,Computers & Accessories,Linksys,2008,Female,0
+756678,7884,506980,4.0,2016-02-04,Female&Male,Headphones,Mpow,2015,Female,2
+432420,5054,398700,5.0,2015-02-10,Female&Male,Home Audio,TaoTronics,2014,Female,0
+22324,652,4022,5.0,2008-10-27,Female&Male,Computers & Accessories,Toshiba,2008,Male,0
+847746,7809,628842,3.0,2016-05-15,Female&Male,Headphones,Mpow,2015,Female,2
+860164,2031,776233,3.0,2016-05-31,Female,Computers & Accessories,Logitech,2012,Male,0
+843188,5178,761338,5.0,2016-05-10,Male,Headphones,Skullcandy,2014,Male,0
+631377,2355,575362,2.0,2015-10-02,Male,Headphones,Skullcandy,2012,Male,0
+8741,314,8449,4.0,2007-01-22,Female,Camera & Photo,Canon,2006,Female,0
+452324,1575,416589,5.0,2015-03-04,Male,Headphones,Sony,2011,Female,0
+12798,430,3939,4.0,2007-09-30,Female,Computers & Accessories,Linksys,2007,Male,0
+682973,6437,620759,5.0,2015-11-25,Male,Headphones,TaoTronics,2015,Female,0
+326124,1307,304062,5.0,2014-09-11,Female,Camera & Photo,Nikon,2010,Female,0
+947251,2031,491022,5.0,2016-09-17,Female,Computers & Accessories,Logitech,2012,Male,2
+808661,6689,731136,2.0,2016-03-28,Female&Male,Headphones,Mpow,2015,Male,0
+448574,17,413229,1.0,2015-02-28,Female,Camera & Photo,Fujifilm,2003,Female,0
+33705,1165,32476,4.0,2009-10-20,Female,Computers & Accessories,Logitech,2009,Female,0
+597924,6689,545855,5.0,2015-08-26,Female&Male,Headphones,Mpow,2015,Female,0
+99770,1605,23257,3.0,2012-09-20,Female,Camera & Photo,Neewer,2011,Male,0
+930939,6562,831640,5.0,2016-08-27,Female&Male,Computers & Accessories,Apple,2015,Male,2
+1051242,4896,108854,5.0,2017-02-08,Male,Computers & Accessories,XShields,2015,Female,2
+667528,2355,223935,2.0,2015-11-09,Male,Headphones,Skullcandy,2012,Male,2
+269868,1423,252885,4.0,2014-05-14,Female,Camera & Photo,Kodak,2010,Female,0
+567657,4177,518761,5.0,2015-07-26,Female,Television & Video,Toshiba,2014,Female,2
+376547,5009,348516,4.0,2014-12-06,Female&Male,Headphones,Mpow,2014,Female,0
+431581,4921,397953,5.0,2015-02-09,Female&Male,Computers & Accessories,XShields,2015,Female,0
+242710,3630,63652,5.0,2014-02-27,Female&Male,Computers & Accessories,Logitech,2013,Male,1
+458412,2355,422030,5.0,2015-03-11,Male,Headphones,Skullcandy,2012,Male,0
+71708,1818,29715,3.0,2011-10-28,Female,Headphones,Bose,2011,Male,0
+311473,3173,290747,3.0,2014-08-17,Female&Male,Computers & Accessories,ViewSonic,2013,Male,0
+771217,6853,698009,5.0,2016-02-19,Female&Male,Headphones,Tiamat,2015,Female,0
+951970,1877,856780,3.0,2016-09-23,Male,Camera & Photo,Generic,2012,Male,0
+619232,5364,564671,5.0,2015-09-17,Female,Computers & Accessories,Apple,2014,Female,0
+63660,1541,52168,5.0,2011-06-20,Male,Accessories & Supplies,ebasy,2011,Male,1
+21517,426,13937,5.0,2008-09-23,Female,Accessories & Supplies,Logitech,2007,Male,0
+697601,1661,633501,4.0,2015-12-10,Male,Computers & Accessories,Logitech,2011,Male,0
+43388,974,41703,1.0,2010-05-15,Female&Male,Camera & Photo,Polaroid,2009,Male,0
+220940,2253,207905,5.0,2014-01-08,Female&Male,Computers & Accessories,Jabra,2012,Male,0
+1265764,1605,1116515,5.0,2018-05-08,Female,Camera & Photo,Neewer,2011,Male,1
+276409,3236,258051,2.0,2014-06-03,Female&Male,Headphones,JLAB,2013,Female,2
+1003144,8641,901626,2.0,2016-12-10,Male,Camera & Photo,Funlux,2015,Female,0
+648319,4446,590364,4.0,2015-10-20,Female&Male,Headphones,TaoTronics,2014,Female,0
+127479,2254,120975,3.0,2013-02-07,Female&Male,Portable Audio & Video,Uniden,2013,Male,0
+1007412,3411,445628,4.0,2016-12-16,Male,Headphones,JLAB,2013,Male,2
+218101,2979,205251,2.0,2014-01-03,Female,Camera & Photo,Canon,2013,Male,0
+1151028,6726,495396,4.0,2017-08-09,Female&Male,Camera & Photo,Polaroid,2015,Female,2
+1080388,5326,969884,5.0,2017-03-24,Female,Computers & Accessories,Fintie,2015,Female,0
+1232249,8341,1103781,5.0,2018-02-12,Male,Camera & Photo,Neewer,2015,Male,0
+1121898,5459,125442,4.0,2017-06-10,Female&Male,Home Audio,Pyle,2014,Female,2
+909256,162,819268,5.0,2016-07-31,Male,Headphones,Sennheiser,2004,Female,0
+1248786,2355,1118501,5.0,2018-03-23,Male,Headphones,Skullcandy,2012,Female,0
+518123,3364,475280,5.0,2015-05-28,Female&Male,Camera & Photo,Canon,2013,Female,0
+716289,1670,649712,5.0,2015-12-30,Female&Male,Headphones,Bose,2011,Female,0
+1067379,8736,958390,5.0,2017-03-04,Female&Male,Computers & Accessories,Fintie,2015,Female,0
+357277,5041,331599,2.0,2014-11-05,Male,Headphones,Bose,2014,Male,0
+550959,4446,504335,5.0,2015-07-08,Female&Male,Headphones,TaoTronics,2014,Male,0
+746553,8599,676294,5.0,2016-01-26,Female,Headphones,Etre Jeune,2015,Male,0
+995421,8835,894832,5.0,2016-12-01,Female,Headphones,Etre Jeune,2016,Female,0
+252967,3606,237458,5.0,2014-03-25,Male,Headphones,Philips,2014,Male,0
+414795,5974,194056,5.0,2015-01-19,Female,Portable Audio & Video,Mpow,2015,Male,0
+95530,1780,90895,3.0,2012-08-02,Male,Computers & Accessories,Logitech,2011,Male,0
+534349,4689,489629,4.0,2015-06-18,Female,Portable Audio & Video,Pyle,2016,Female,0
+386861,1861,357681,5.0,2014-12-20,Female,Accessories & Supplies,EldHus,2011,Female,0
+16690,698,16213,4.0,2008-03-10,Female,Camera & Photo,Canon,2008,Female,0
+60830,1423,58282,5.0,2011-04-26,Female,Camera & Photo,Kodak,2010,Female,0
+840347,8195,758857,5.0,2016-05-06,Female&Male,Headphones,Skullcandy,2015,Female,0
+724188,679,656629,4.0,2016-01-06,Female,Computers & Accessories,Linksys,2008,Female,0
+563514,259,515461,5.0,2015-07-22,Male,Headphones,Sennheiser,2005,Female,0
+599041,1277,546852,5.0,2015-08-27,Female,Camera & Photo,Savage,2010,Female,0
+1203842,2586,468210,5.0,2017-12-11,Female,Camera & Photo,Polaroid,2012,Male,2
+69227,1131,66239,4.0,2011-09-21,Female,Portable Audio & Video,Sony,2009,Female,0
+973911,5329,875955,5.0,2016-10-26,Female,Computers & Accessories,Apple,2014,Male,0
+1115752,2136,1000984,5.0,2017-05-29,Female,Headphones,Sennheiser,2014,Female,0
+1026268,8074,922129,5.0,2017-01-07,Female&Male,Television & Video,DBPOWER,2015,Female,0
+1026936,7591,922738,5.0,2017-01-07,Male,Headphones,Skullcandy,2015,Female,0
+44511,1189,42787,4.0,2010-06-14,Female,Portable Audio & Video,Philips,2010,Male,0
+896590,6726,627521,5.0,2016-07-17,Female&Male,Camera & Photo,Polaroid,2015,Female,1
+364156,3212,337685,4.0,2014-11-17,Male,Headphones,Sennheiser,2013,Male,0
+342493,1882,130578,3.0,2014-10-09,Female&Male,Headphones,JLAB,2011,Female,2
+489072,3539,449476,5.0,2015-04-20,Female,Accessories & Supplies,EldHus,2013,Female,0
+301120,1323,281346,5.0,2014-07-29,Male,Car Electronics & GPS,Garmin,2010,Female,0
+1219602,5178,1034414,5.0,2018-01-14,Male,Headphones,Skullcandy,2014,Male,2
+375450,467,347527,5.0,2014-12-05,Female&Male,Camera & Photo,Canon,2007,Female,0
+1026001,1124,921894,1.0,2017-01-06,Male,Computers & Accessories,Logitech,2009,Male,0
+927520,3967,835327,4.0,2016-08-23,Female,Camera & Photo,Olympus,2014,Female,0
+966101,8539,869104,4.0,2016-10-14,Male,Camera & Photo,Nikon,2015,Female,0
+1017054,8332,913934,4.0,2016-12-28,Female,Computers & Accessories,iRULU,2015,Female,0
+565665,4302,517361,5.0,2015-07-24,Female,Computers & Accessories,Apple,2014,Male,0
+1060617,4075,952437,5.0,2017-02-22,Female&Male,Camera & Photo,Fujifilm,2015,Female,0
+540256,672,44778,5.0,2015-06-25,Female,Camera & Photo,Savage,2012,Male,2
+356316,5385,330763,4.0,2014-11-03,Female&Male,Headphones,Tiamat,2015,Female,0
+982937,7869,883875,5.0,2016-11-10,Female,Headphones,Bose,2015,Female,0
+289482,4401,46878,3.0,2014-07-07,Female,Headphones,Pyle,2014,Female,0
+458664,3572,250862,5.0,2015-03-11,Female,Computers & Accessories,Etre Jeune,2013,Male,2
+245889,2129,93936,5.0,2014-03-06,Female&Male,Television & Video,Samsung,2012,Male,1
+708990,6726,643336,5.0,2015-12-23,Female&Male,Camera & Photo,Polaroid,2015,Female,0
+620123,4252,565449,3.0,2015-09-18,Female,Headphones,Bose,2014,Female,0
+806916,7823,729608,1.0,2016-03-26,Male,Headphones,Mpow,2015,Male,0
+411168,5989,379725,4.0,2015-01-14,Female&Male,Computers & Accessories,Plemo,2015,Male,0
+1277805,3630,1144039,4.0,2018-06-17,Female&Male,Computers & Accessories,Logitech,2013,Female,0
+952767,7869,857454,5.0,2016-09-24,Female,Headphones,Bose,2015,Male,0
+1234037,1124,1105364,5.0,2018-02-17,Male,Computers & Accessories,Logitech,2009,Female,0
+752051,17,681120,3.0,2016-01-31,Female,Camera & Photo,Fujifilm,2003,Male,0
+566719,2031,518291,5.0,2015-07-25,Female,Computers & Accessories,Logitech,2012,Male,0
+770240,4446,697166,5.0,2016-02-18,Female&Male,Headphones,TaoTronics,2014,Male,0
+742330,2450,672537,5.0,2016-01-22,Female,Headphones,Sony,2014,Female,0
+1269808,8341,208324,2.0,2018-05-21,Male,Camera & Photo,Neewer,2015,Male,2
+899935,8063,811080,5.0,2016-07-20,Female,Computers & Accessories,Fintie,2015,Female,0
+994882,694,894360,3.0,2016-11-30,Female,Computers & Accessories,Linksys,2008,Male,0
+29560,991,28564,1.0,2009-06-13,Male,Camera & Photo,Sony,2009,Female,0
+1289916,5107,1154881,3.0,2018-08-06,Male,Computers & Accessories,Kensington,2014,Female,0
+522916,4397,479524,1.0,2015-06-03,Female,Portable Audio & Video,Pyle,2015,Male,0
+1032777,7022,927910,5.0,2017-01-13,Male,Portable Audio & Video,Bose,2015,Male,0
+1013678,162,775402,1.0,2016-12-25,Male,Headphones,Sennheiser,2004,Female,2
+85651,259,81652,1.0,2012-03-24,Male,Headphones,Sennheiser,2005,Female,0
+370097,1423,342856,5.0,2014-11-27,Female,Camera & Photo,Kodak,2010,Female,0
+980919,7559,882122,5.0,2016-11-07,Female&Male,Headphones,TaoTronics,2015,Male,0
+100490,1575,95515,3.0,2012-09-28,Male,Headphones,Sony,2011,Male,0
+969278,6858,871879,2.0,2016-10-19,Male,Car Electronics & GPS,Pyle,2015,Male,0
+1018793,8195,538691,5.0,2016-12-30,Female&Male,Headphones,Skullcandy,2015,Male,2
+354205,3173,1329,1.0,2014-10-30,Female&Male,Computers & Accessories,ViewSonic,2013,Male,0
+510851,6396,468840,5.0,2015-05-18,Male,Headphones,Generic,2015,Male,0
+487916,1466,448010,5.0,2015-04-18,Male,Headphones,Philips,2010,Male,1
+312,13,309,5.0,2001-04-14,Female,Camera & Photo,Nikon,2000,Male,0
+683712,3925,310381,5.0,2015-11-26,Female,Camera & Photo,Fujifilm,2014,Female,2
+438208,3229,403912,5.0,2015-02-17,Female,Accessories & Supplies,Etre Jeune,2013,Male,0
+8880,121,8587,1.0,2007-02-01,Female,Computers & Accessories,Linksys,2003,Male,0
+81790,1876,78040,5.0,2012-02-07,Female,Computers & Accessories,ebasy,2011,Female,0
+405679,1210,374801,3.0,2015-01-09,Female,Accessories & Supplies,EldHus,2010,Male,0
+777142,6687,703214,5.0,2016-02-25,Female&Male,Headphones,Mpow,2015,Male,0
+888505,8736,801065,5.0,2016-07-06,Female&Male,Computers & Accessories,Fintie,2015,Female,0
+1040345,5748,229078,4.0,2017-01-23,Female&Male,Portable Audio & Video,Mpow,2015,Female,2
+1112361,9510,34323,5.0,2017-05-21,Male,Headphones,Panasonic,2017,Male,1
+189995,3338,179336,4.0,2013-10-18,Male,Headphones,Jabra,2013,Female,0
+84517,1780,80590,5.0,2012-03-11,Male,Computers & Accessories,Logitech,2011,Male,0
+536285,6687,491344,5.0,2015-06-20,Female&Male,Headphones,Mpow,2015,Male,0
+149356,1658,141425,2.0,2013-05-09,Male,Portable Audio & Video,Philips,2011,Male,0
+430962,1575,397397,4.0,2015-02-08,Male,Headphones,Sony,2011,Female,0
+254332,3092,155147,5.0,2014-03-29,Female,Headphones,Sony,2013,Female,2
+227696,1575,214183,5.0,2014-01-21,Male,Headphones,Sony,2011,Male,0
+946208,104,851740,4.0,2016-09-16,Male,Computers & Accessories,Sennheiser,2003,Male,0
+508558,17,466775,1.0,2015-05-15,Female,Camera & Photo,Fujifilm,2003,Female,0
+84386,332,80466,3.0,2012-03-09,Female&Male,Portable Audio & Video,Sony,2011,Male,0
+225032,3357,211716,5.0,2014-01-16,Female&Male,Computers & Accessories,Etre Jeune,2013,Female,0
+920337,8736,829016,5.0,2016-08-14,Female&Male,Computers & Accessories,Fintie,2015,Female,0
+134124,259,96051,5.0,2013-03-05,Male,Headphones,Sennheiser,2005,Female,2
+986192,647,886730,5.0,2016-11-15,Male,Computers & Accessories,Logitech,2008,Female,0
+239051,2454,224650,1.0,2014-02-18,Female&Male,Television & Video,Pyle,2012,Female,0
+1170823,6819,1049491,5.0,2017-09-20,Female&Male,Headphones,Mpow,2015,Male,0
+520161,3403,477079,5.0,2015-05-31,Female&Male,Headphones,EldHus,2013,Male,0
+812173,5171,734194,5.0,2016-04-01,Female&Male,Portable Audio & Video,Bose,2014,Female,0
+218567,259,205674,3.0,2014-01-04,Male,Headphones,Sennheiser,2005,Male,0
+205375,154,193486,5.0,2013-12-07,Female&Male,Headphones,EldHus,2005,Male,0
+879741,5748,793380,1.0,2016-06-25,Female&Male,Portable Audio & Video,Mpow,2015,Male,0
+118601,1455,112617,4.0,2013-01-08,Male,Camera & Photo,Sony,2010,Female,0
+326067,1496,304012,1.0,2014-09-11,Female&Male,Headphones,JLAB,2010,Female,0
+1157154,7263,807581,5.0,2017-08-21,Female,Camera & Photo,Vivitar,2016,Male,1
+1010672,8599,908242,1.0,2016-12-20,Female,Headphones,Etre Jeune,2015,Female,0
+433927,1605,400052,5.0,2015-02-12,Female,Camera & Photo,Neewer,2011,Male,0
+715362,4252,648905,5.0,2015-12-30,Female,Headphones,Bose,2014,Male,0
+368337,647,341347,4.0,2014-11-24,Male,Computers & Accessories,Logitech,2008,Male,0
+416075,5220,189581,5.0,2015-01-20,Male,Computers & Accessories,Generic,2018,Female,2
+279691,81,261806,4.0,2014-06-12,Female&Male,Computers & Accessories,Linksys,2003,Female,0
+9068,80,8768,1.0,2007-02-12,Female,Computers & Accessories,Linksys,2015,Female,0
+1011482,162,908962,1.0,2016-12-22,Male,Headphones,Sennheiser,2004,Male,0
+90966,1304,86607,1.0,2012-06-02,Female,Camera & Photo,Nikon,2010,Female,0
+698889,5948,634605,1.0,2015-12-11,Female&Male,Headphones,JLAB,2015,Female,0
+967551,2778,786587,5.0,2016-10-16,Female&Male,Camera & Photo,Vivitar,2013,Male,2
+981383,1605,882524,5.0,2016-11-07,Female,Camera & Photo,Neewer,2011,Female,0
+528386,2129,484362,5.0,2015-06-10,Female&Male,Television & Video,Samsung,2012,Female,0
+1130424,5989,1013911,5.0,2017-06-28,Female&Male,Computers & Accessories,Plemo,2015,Male,0
+107670,1780,102259,5.0,2012-11-29,Male,Computers & Accessories,Logitech,2011,Female,0
+532326,3810,487491,5.0,2015-06-15,Female&Male,Headphones,ebasy,2016,Female,2
+379659,3884,351288,5.0,2014-12-10,Male,Computers & Accessories,LSS,2014,Female,0
+86660,1972,82587,5.0,2012-04-06,Female,Camera & Photo,Kodak,2012,Female,0
+311278,1575,290565,4.0,2014-08-16,Male,Headphones,Sony,2011,Male,0
+106982,1610,101612,3.0,2012-11-26,Male,Computers & Accessories,Logitech,2012,Male,0
+53080,1282,50909,2.0,2010-12-24,Male,Camera & Photo,Nikon,2010,Female,0
+360189,2880,334159,4.0,2014-11-10,Female&Male,Headphones,TaoTronics,2013,Male,0
+673068,5054,612084,5.0,2015-11-16,Female&Male,Home Audio,TaoTronics,2014,Female,0
+390022,4230,360500,4.0,2014-12-25,Female&Male,Camera & Photo,Olympus,2014,Male,0
+88362,890,84176,5.0,2012-04-28,Female,Computers & Accessories,Linksys,2010,Female,0
+50894,1304,48849,2.0,2010-11-12,Female,Camera & Photo,Nikon,2010,Male,0
+498340,923,457686,5.0,2015-05-02,Female,Headphones,Kensington,2011,Male,0
+362079,2129,335829,5.0,2014-11-14,Female&Male,Television & Video,Samsung,2012,Male,0
+486100,1473,443724,5.0,2015-04-16,Female,Accessories & Supplies,Etre Jeune,2010,Male,2
+967550,6437,870354,5.0,2016-10-16,Male,Headphones,TaoTronics,2015,Male,0
+1155388,3572,1035927,4.0,2017-08-17,Female,Computers & Accessories,Etre Jeune,2013,Female,0
+60739,111,58196,5.0,2011-04-25,Female&Male,Headphones,Panasonic,2006,Male,0
+218342,2400,205475,5.0,2014-01-04,Female&Male,Headphones,JLAB,2012,Male,0
+1085686,4009,974557,5.0,2017-04-01,Female&Male,Portable Audio & Video,DBPOWER,2014,Male,0
+1069118,7869,959923,2.0,2017-03-07,Female,Headphones,Bose,2015,Male,0
+1205949,2586,1080466,5.0,2017-12-16,Female,Camera & Photo,Polaroid,2012,Male,0
+233258,3069,219312,3.0,2014-02-04,Female,Headphones,JLAB,2013,Female,0
+1275323,4935,1141857,4.0,2018-06-09,Female,Camera & Photo,Neewer,2015,Female,0
+971975,7827,874229,5.0,2016-10-23,Female,Accessories & Supplies,Etre Jeune,2015,Female,0
+980393,162,881657,5.0,2016-11-06,Male,Headphones,Sennheiser,2004,Female,0
+272635,2031,5506,4.0,2014-05-22,Female,Computers & Accessories,Logitech,2012,Male,2
+231054,937,217275,4.0,2014-01-29,Male,Camera & Photo,Samsung,2014,Male,0
+437076,4696,402902,4.0,2015-02-16,Female,Computers & Accessories,Fintie,2014,Male,0
+274876,1882,257441,5.0,2014-05-29,Female&Male,Headphones,JLAB,2011,Male,0
+1042258,3106,798144,4.0,2017-01-25,Female,Computers & Accessories,Bose,2013,Male,2
+572818,4252,523680,4.0,2015-07-31,Female,Headphones,Bose,2014,Female,0
+443486,3338,105339,5.0,2015-02-23,Male,Headphones,Jabra,2013,Male,1
+462557,5444,425720,1.0,2015-03-16,Female&Male,Computers & Accessories,IRULU,2014,Female,0
+619980,3173,565321,5.0,2015-09-18,Female&Male,Computers & Accessories,ViewSonic,2013,Female,0
+51135,983,49072,5.0,2010-11-17,Female,Computers & Accessories,Linksys,2009,Male,0
+43349,927,41664,5.0,2010-05-15,Female,Accessories & Supplies,EldHus,2009,Male,0
+120040,651,113970,2.0,2013-01-12,Female,Camera & Photo,Gary Fong,2008,Male,0
+264920,111,248382,5.0,2014-04-29,Female&Male,Headphones,Panasonic,2006,Male,0
+1061374,5557,953094,5.0,2017-02-23,Female,Computers & Accessories,Apple,2015,Male,0
+544772,3884,498845,1.0,2015-07-01,Male,Computers & Accessories,LSS,2014,Female,0
+312677,3291,291839,3.0,2014-08-19,Female,Computers & Accessories,Koolertron,2014,Female,0
+1221972,1258,375008,4.0,2018-01-20,Female&Male,Camera & Photo,Fujifilm,2010,Male,2
+450302,6317,414779,5.0,2015-03-02,Female,Headphones,JLAB,2015,Female,0
+624596,1575,569402,5.0,2015-09-23,Male,Headphones,Sony,2011,Female,0
+362910,5171,336554,5.0,2014-11-16,Female&Male,Portable Audio & Video,Bose,2014,Female,0
+1246600,2586,1116557,5.0,2018-03-18,Female,Camera & Photo,Polaroid,2012,Female,0
+352122,5323,327122,5.0,2014-10-27,Male,Camera & Photo,Sony,2015,Female,0
+975285,6238,877153,5.0,2016-10-28,Female,Camera & Photo,Fujifilm,2015,Male,0
+13281,154,12894,5.0,2007-10-28,Female&Male,Headphones,EldHus,2005,Male,0
+73502,1670,70200,5.0,2011-11-21,Female&Male,Headphones,Bose,2011,Male,0
+370676,4446,343367,4.0,2014-11-28,Female&Male,Headphones,TaoTronics,2014,Male,0
+668486,5041,608085,5.0,2015-11-10,Male,Headphones,Bose,2014,Male,0
+222928,3411,209762,2.0,2014-01-12,Male,Headphones,JLAB,2013,Female,0
+429769,5009,340610,5.0,2015-02-07,Female&Male,Headphones,Mpow,2014,Female,2
+552320,5009,505546,5.0,2015-07-10,Female&Male,Headphones,Mpow,2014,Male,0
+1126474,481,283594,5.0,2017-06-20,Female,Camera & Photo,Kodak,2007,Male,2
+388617,4079,359253,2.0,2014-12-22,Female&Male,Portable Audio & Video,DBPOWER,2014,Male,0
+497129,3539,58197,5.0,2015-04-30,Female,Accessories & Supplies,EldHus,2013,Male,1
+967515,8061,492093,5.0,2016-10-16,Female&Male,Headphones,EldHus,2015,Male,2
+88059,1563,31760,4.0,2012-04-24,Male,Television & Video,Panasonic,2011,Female,0
+662848,2873,603115,4.0,2015-11-04,Female&Male,Headphones,JLAB,2014,Male,0
+200445,3426,138062,5.0,2013-11-23,Female&Male,Headphones,JLAB,2013,Female,2
+386286,3150,357168,4.0,2014-12-19,Male,Headphones,Philips,2013,Female,0
+790043,2499,714658,5.0,2016-03-08,Male,Camera & Photo,Olympus,2012,Female,0
+233192,1786,219249,5.0,2014-02-04,Male,Television & Video,Philips,2011,Male,0
+510983,3049,468955,3.0,2015-05-19,Female,Accessories & Supplies,Jabra,2013,Male,0
+471150,1760,433452,5.0,2015-03-27,Female,Computers & Accessories,Logitech,2011,Male,0
+712575,2031,646472,5.0,2015-12-28,Female,Computers & Accessories,Logitech,2012,Female,0
+1046460,2626,939992,5.0,2017-02-01,Female&Male,Headphones,EldHus,2013,Female,0
+1077372,6858,967214,5.0,2017-03-19,Male,Car Electronics & GPS,Pyle,2015,Male,0
+319610,3092,298129,5.0,2014-08-31,Female,Headphones,Sony,2013,Male,0
+414707,5138,382916,5.0,2015-01-19,Female,Headphones,Bose,2014,Female,0
+32781,867,30600,5.0,2009-09-23,Female&Male,Camera & Photo,Sony,2009,Female,0
+440852,6196,226237,5.0,2015-02-20,Male,Computers & Accessories,LSS,2017,Female,1
+624384,6930,569214,5.0,2015-09-23,Female&Male,Accessories & Supplies,EldHus,2015,Female,0
+852685,4419,98785,5.0,2016-05-22,Male,Portable Audio & Video,Uniden,2014,Female,2
+1022926,8282,919171,5.0,2017-01-03,Female,Accessories & Supplies,EldHus,2015,Female,0
+92012,111,87585,3.0,2012-06-16,Female&Male,Headphones,Panasonic,2006,Male,0
+994450,4213,893979,5.0,2016-11-29,Female,Camera & Photo,Nikon,2014,Female,0
+1100197,1124,987345,4.0,2017-04-27,Male,Computers & Accessories,Logitech,2009,Male,0
+837267,1056,756140,5.0,2016-05-03,Male,Car Electronics & GPS,Uniden,2011,Male,0
+389436,3145,359997,3.0,2014-12-24,Female,Computers & Accessories,Logitech,2013,Female,0
+148023,1777,140185,4.0,2013-05-03,Male,Portable Audio & Video,Sony,2011,Male,0
+38695,1259,37224,5.0,2010-01-31,Male,Portable Audio & Video,Philips,2010,Female,0
+696566,2569,632272,3.0,2015-12-09,Female&Male,Camera & Photo,ViewSonic,2012,Male,0
+600081,6599,337218,5.0,2015-08-28,Female,Camera & Photo,Nikon,2015,Male,1
+713745,2600,647506,4.0,2015-12-28,Male,Computers & Accessories,Logitech,2012,Female,0
+266681,1605,249984,5.0,2014-05-05,Female,Camera & Photo,Neewer,2011,Female,0
+560017,3767,512385,1.0,2015-07-18,Female&Male,Camera & Photo,Samsung,2014,Male,0
+581080,5806,530997,4.0,2015-08-09,Female&Male,Accessories & Supplies,Fintie,2015,Female,0
+132907,1575,126063,4.0,2013-02-28,Male,Headphones,Sony,2011,Male,0
+351706,3539,326760,4.0,2014-10-26,Female,Accessories & Supplies,EldHus,2013,Female,0
+528950,2355,484854,1.0,2015-06-11,Male,Headphones,Skullcandy,2012,Female,0
+418164,2129,385998,5.0,2015-01-23,Female&Male,Television & Video,Samsung,2012,Female,0
+1082966,5054,972178,4.0,2017-03-28,Female&Male,Home Audio,TaoTronics,2014,Female,0
+119533,1575,113486,4.0,2013-01-10,Male,Headphones,Sony,2011,Male,0
+104174,2194,96392,5.0,2012-11-05,Female,Television & Video,Philips,2012,Male,1
+1119325,5948,1004151,1.0,2017-06-05,Female&Male,Headphones,JLAB,2015,Female,0
+1076848,2964,245965,5.0,2017-03-18,Female,Computers & Accessories,Fintie,2013,Female,2
+825012,4079,563017,5.0,2016-04-19,Female&Male,Portable Audio & Video,DBPOWER,2014,Male,2
+748070,6689,677635,5.0,2016-01-27,Female&Male,Headphones,Mpow,2015,Female,0
+16435,658,15963,4.0,2008-02-27,Female&Male,Computers & Accessories,Toshiba,2008,Male,0
+1031362,5178,926665,4.0,2017-01-12,Male,Headphones,Skullcandy,2014,Male,0
+997010,6689,896224,1.0,2016-12-02,Female&Male,Headphones,Mpow,2015,Female,0
+422855,1575,390140,3.0,2015-01-29,Male,Headphones,Sony,2011,Female,0
+653213,4510,594631,5.0,2015-10-26,Male,Car Electronics & GPS,Pyle,2017,Male,0
+1011475,647,908955,5.0,2016-12-21,Male,Computers & Accessories,Logitech,2008,Female,0
+148127,1575,140283,5.0,2013-05-03,Male,Headphones,Sony,2011,Female,0
+466128,2355,428920,5.0,2015-03-20,Male,Headphones,Skullcandy,2012,Female,0
+731558,8004,663014,4.0,2016-01-13,Female,Camera & Photo,Mpow,2015,Female,0
+22844,220,1670,5.0,2008-11-21,Male,Camera & Photo,Canon,2005,Female,0
+1176846,1304,1054825,5.0,2017-10-04,Female,Camera & Photo,Nikon,2010,Male,0
+1210432,1605,11581,3.0,2017-12-27,Female,Camera & Photo,Neewer,2011,Male,2
+1128305,6180,264460,1.0,2017-06-24,Female,Security & Surveillance,Samsung,2016,Male,1
+987701,4969,888057,5.0,2016-11-17,Male,Headphones,Bose,2015,Female,0
+619893,3288,143372,4.0,2015-09-18,Female,Computers & Accessories,Logitech,2013,Female,1
+408336,4089,377186,5.0,2015-01-11,Female,Headphones,Pyle,2014,Female,0
+1187093,6819,1063868,3.0,2017-10-30,Female&Male,Headphones,Mpow,2015,Male,0
+1251791,6819,1121157,5.0,2018-03-31,Female&Male,Headphones,Mpow,2015,Female,0
+689249,6819,626268,3.0,2015-12-02,Female&Male,Headphones,Mpow,2015,Female,0
+1275318,6819,1141853,5.0,2018-06-09,Female&Male,Headphones,Mpow,2015,Female,0
+653132,7356,25025,5.0,2015-10-26,Female&Male,Headphones,Mpow,2015,Male,1
+679541,4539,617763,5.0,2015-11-22,Female&Male,Accessories & Supplies,EldHus,2014,Male,0
+1122638,2626,1007101,5.0,2017-06-12,Female&Male,Headphones,EldHus,2013,Male,0
+747825,6810,677415,1.0,2016-01-27,Female&Male,Camera & Photo,Funlux,2015,Female,0
+1169214,9510,3049,5.0,2017-09-16,Male,Headphones,Panasonic,2017,Female,2
+426913,4141,127326,5.0,2015-02-04,Female,Camera & Photo,Savage,2015,Female,0
+274255,736,256876,5.0,2014-05-27,Female,Camera & Photo,Samsung,2008,Female,0
+268152,2831,251323,5.0,2014-05-09,Female,Camera & Photo,Nikon,2013,Male,0
+189650,710,179025,5.0,2013-10-17,Female,Computers & Accessories,Linksys,2008,Female,0
+1111849,6689,997575,5.0,2017-05-20,Female&Male,Headphones,Mpow,2015,Female,0
+1117436,3384,1002481,5.0,2017-06-01,Female,Camera & Photo,Fujifilm,2014,Female,0
+554008,3502,507055,3.0,2015-07-12,Female&Male,Portable Audio & Video,Pyle,2013,Male,0
+549328,3248,31813,5.0,2015-07-06,Female&Male,Headphones,Panasonic,2013,Female,2
+2910,142,2802,4.0,2004-11-05,Female,Computers & Accessories,Linksys,2004,Male,0
+571433,6687,504782,5.0,2015-07-30,Female&Male,Headphones,Mpow,2015,Female,2
+339750,1575,316169,5.0,2014-10-05,Male,Headphones,Sony,2011,Female,0
+384325,259,355412,5.0,2014-12-16,Male,Headphones,Sennheiser,2005,Male,0
+749699,2253,679063,5.0,2016-01-28,Female&Male,Computers & Accessories,Jabra,2012,Female,0
+1046393,2434,474282,4.0,2017-02-01,Female&Male,Portable Audio & Video,Uniden,2012,Female,2
+271775,3173,254642,5.0,2014-05-20,Female&Male,Computers & Accessories,ViewSonic,2013,Male,0
+193248,1111,182355,4.0,2013-10-31,Male,Computers & Accessories,Toshiba,2009,Male,0
+43856,1307,42156,4.0,2010-05-28,Female,Camera & Photo,Nikon,2010,Female,0
+500015,647,459186,5.0,2015-05-04,Male,Computers & Accessories,Logitech,2008,Male,0
+619409,5171,564827,5.0,2015-09-17,Female&Male,Portable Audio & Video,Bose,2014,Female,0
+654783,1575,596031,3.0,2015-10-27,Male,Headphones,Sony,2011,Female,0
+1234090,7888,1105410,5.0,2018-02-17,Female&Male,Headphones,TaoTronics,2015,Male,0
+968431,5671,842511,2.0,2016-10-17,Female&Male,Computers & Accessories,Sennheiser,2016,Male,2
+1248015,2031,1117810,4.0,2018-03-21,Female,Computers & Accessories,Logitech,2012,Male,0
+1246379,8282,1116364,5.0,2018-03-17,Female,Accessories & Supplies,EldHus,2015,Female,0
+1007613,5156,905556,5.0,2016-12-16,Female,Portable Audio & Video,Bose,2014,Male,0
+901510,9188,695985,5.0,2016-07-22,Female&Male,Accessories & Supplies,EldHus,2016,Female,2
+286555,3403,268035,2.0,2014-07-01,Female&Male,Headphones,EldHus,2013,Female,0
+477262,2355,438886,5.0,2015-04-04,Male,Headphones,Skullcandy,2012,Male,0
+109411,1750,103899,5.0,2012-12-07,Male,Accessories & Supplies,Jabra,2011,Female,0
+1192908,2626,1069021,3.0,2017-11-14,Female&Male,Headphones,EldHus,2013,Female,0
+1154005,6169,304629,5.0,2017-08-15,Female&Male,Camera & Photo,Fujifilm,2015,Female,2
+1219094,1605,1092080,5.0,2018-01-13,Female,Camera & Photo,Neewer,2011,Female,0
+963466,5424,429119,1.0,2016-10-10,Female,Headphones,Mpow,2014,Male,2
+1060656,8375,952470,5.0,2017-02-22,Female,Home Audio,TaoTronics,2015,Male,0
+1160936,7022,1040817,5.0,2017-08-29,Male,Portable Audio & Video,Bose,2015,Female,0
+378795,173,350519,5.0,2014-12-09,Male,Camera & Photo,Sony,2011,Female,0
+391173,751,361559,4.0,2014-12-26,Female,Camera & Photo,Fujifilm,2010,Female,0
+1180099,4858,1057677,5.0,2017-10-12,Male,Computers & Accessories,XShields,2014,Female,0
+251789,3189,236383,5.0,2014-03-22,Female&Male,Headphones,Etre Jeune,2013,Male,0
+626729,6018,571290,5.0,2015-09-26,Female,Camera & Photo,Fujifilm,2015,Female,0
+775666,6662,701929,5.0,2016-02-23,Male,Home Audio,EldHus,2015,Female,0
+679386,1958,617623,5.0,2015-11-22,Female,Headphones,Sennheiser,2012,Male,0
+275657,1575,14548,5.0,2014-06-01,Male,Headphones,Sony,2011,Male,0
+310369,2831,289743,5.0,2014-08-15,Female,Camera & Photo,Nikon,2013,Male,0
+833903,8863,753157,5.0,2016-04-29,Female&Male,Headphones,Tiamat,2016,Female,0
+213695,1549,201165,4.0,2013-12-28,Female,Computers & Accessories,EldHus,2012,Male,0
+1277666,4969,284653,4.0,2018-06-16,Male,Headphones,Bose,2015,Male,2
+241854,2484,227226,5.0,2014-02-24,Male,Camera & Photo,Polaroid,2012,Female,0
+460423,3405,423797,5.0,2015-03-14,Female,Computers & Accessories,Koolertron,2013,Male,0
+614239,111,560271,5.0,2015-09-12,Female&Male,Headphones,Panasonic,2006,Female,0
+648304,7356,590351,5.0,2015-10-20,Female&Male,Headphones,Mpow,2015,Male,0
+353567,2996,143336,3.0,2014-10-29,Female,Car Electronics & GPS,Pyle,2013,Male,0
+805643,8279,728483,4.0,2016-03-25,Male,Camera & Photo,Funlux,2015,Male,0
+1133456,5054,1016570,1.0,2017-07-06,Female&Male,Home Audio,TaoTronics,2014,Female,0
+980279,111,881552,5.0,2016-11-06,Female&Male,Headphones,Panasonic,2006,Female,0
+1115654,5055,1000900,5.0,2017-05-28,Male,Headphones,EldHus,2014,Female,0
+792912,1496,717243,5.0,2016-03-11,Female&Male,Headphones,JLAB,2010,Male,0
+178156,1759,168333,5.0,2013-09-01,Female,Computers & Accessories,Logitech,2011,Female,0
+504652,6835,8469,5.0,2015-05-11,Female,Headphones,Mpow,2015,Female,0
+1002145,705,900738,5.0,2016-12-09,Female,Camera & Photo,Nikon,2008,Female,0
+453616,2495,89877,5.0,2015-03-05,Female,Home Audio,Pyle,2012,Male,1
+209638,2569,197392,4.0,2013-12-18,Female&Male,Camera & Photo,ViewSonic,2012,Female,0
+573881,272,524627,4.0,2015-08-02,Female&Male,Headphones,EldHus,2006,Female,0
+170098,1125,160767,4.0,2013-08-02,Female&Male,Home Audio,Pyle,2009,Male,0
+582436,5655,87174,3.0,2015-08-11,Female,Camera & Photo,Neewer,2015,Male,0
+934938,3036,526523,1.0,2016-09-01,Female,Camera & Photo,Vivitar,2014,Female,2
+580887,2863,213062,5.0,2015-08-09,Male,Computers & Accessories,EldHus,2013,Female,1
+1203093,9537,91078,5.0,2017-12-09,Female&Male,Headphones,Panasonic,2017,Female,2
+445530,1575,408615,4.0,2015-02-25,Male,Headphones,Sony,2011,Male,2
+321645,3971,299980,5.0,2014-09-04,Female,Computers & Accessories,Fintie,2014,Female,0
+95518,1473,90883,1.0,2012-08-02,Female,Accessories & Supplies,Etre Jeune,2010,Male,0
+875821,3426,674132,4.0,2016-06-20,Female&Male,Headphones,JLAB,2013,Male,1
+996125,111,895447,5.0,2016-12-02,Female&Male,Headphones,Panasonic,2006,Male,0
+554530,7213,405405,4.0,2015-07-13,Female&Male,Headphones,Philips,2015,Female,1
+78130,1894,74578,4.0,2012-01-03,Female,Camera & Photo,ViewSonic,2011,Female,0
+869858,5709,784749,5.0,2016-06-12,Female,Computers & Accessories,Logitech,2014,Male,0
+449654,2705,414196,5.0,2015-03-01,Female,Computers & Accessories,DURAGADGET,2013,Female,0
+971372,111,873716,5.0,2016-10-22,Female&Male,Headphones,Panasonic,2006,Female,0
+737681,6689,667706,5.0,2016-01-19,Female&Male,Headphones,Mpow,2015,Male,2
+668510,1268,608101,1.0,2015-11-10,Female,Portable Audio & Video,Apple,2015,Female,0
+1186134,1353,1063023,5.0,2017-10-28,Female&Male,Camera & Photo,Polaroid,2011,Female,0
+720726,8599,653582,5.0,2016-01-04,Female,Headphones,Etre Jeune,2015,Female,0
+635007,5354,578581,5.0,2015-10-06,Female&Male,Computers & Accessories,Fintie,2014,Female,0
+1002281,8282,900858,5.0,2016-12-09,Female,Accessories & Supplies,EldHus,2015,Male,0
+424198,5948,391331,4.0,2015-01-31,Female&Male,Headphones,JLAB,2015,Female,0
+1222358,5041,1094967,2.0,2018-01-21,Male,Headphones,Bose,2014,Female,0
+1250014,1124,1119587,5.0,2018-03-26,Male,Computers & Accessories,Logitech,2009,Male,0
+998424,9099,897464,5.0,2016-12-05,Female,Computers & Accessories,Fintie,2016,Female,0
+1004076,5948,902433,3.0,2016-12-12,Female&Male,Headphones,JLAB,2015,Male,0
+873156,8282,229625,2.0,2016-06-16,Female,Accessories & Supplies,EldHus,2015,Female,2
+532140,6689,304276,5.0,2015-06-15,Female&Male,Headphones,Mpow,2015,Male,2
+1137,59,1115,5.0,2003-01-10,Female,Camera & Photo,Canon,2005,Female,0
+1192544,521,1068695,5.0,2017-11-13,Male,Camera & Photo,Olympus,2008,Female,0
+958374,7869,712417,5.0,2016-10-02,Female,Headphones,Bose,2015,Female,2
+822230,111,742930,4.0,2016-04-15,Female&Male,Headphones,Panasonic,2006,Male,0
+348463,2868,323840,5.0,2014-10-20,Female,Camera & Photo,Samsung,2013,Female,0
+1113944,7869,999405,5.0,2017-05-24,Female,Headphones,Bose,2015,Male,0
+5779,231,5567,5.0,2006-02-23,Male,Camera & Photo,Nikon,2005,Male,0
+1006053,9386,904176,5.0,2016-12-14,Female,Computers & Accessories,Cooper Cases,2016,Female,0
+930637,4302,838080,3.0,2016-08-26,Female,Computers & Accessories,Apple,2014,Female,0
+201268,1210,189731,5.0,2013-11-25,Female,Accessories & Supplies,EldHus,2010,Female,0
+611684,5354,558014,4.0,2015-09-09,Female&Male,Computers & Accessories,Fintie,2014,Female,0
+76426,1084,72959,3.0,2011-12-21,Female,Camera & Photo,Kodak,2009,Male,0
+314786,1593,293753,5.0,2014-08-22,Female&Male,Camera & Photo,Canon,2011,Female,0
+61251,1131,58680,5.0,2011-05-03,Female,Portable Audio & Video,Sony,2009,Male,0
+345517,2228,310823,5.0,2014-10-15,Female&Male,Headphones,Sennheiser,2013,Male,1
+604083,5748,551300,5.0,2015-09-01,Female&Male,Portable Audio & Video,Mpow,2015,Male,0
+94286,111,89719,5.0,2012-07-17,Female&Male,Headphones,Panasonic,2006,Female,0
+202483,1861,190842,5.0,2013-11-29,Female,Accessories & Supplies,EldHus,2011,Male,0
+296463,1423,277092,5.0,2014-07-21,Female,Camera & Photo,Kodak,2010,Female,0
+290247,2569,271409,3.0,2014-07-09,Female&Male,Camera & Photo,ViewSonic,2012,Female,0
+1247063,5261,1116964,5.0,2018-03-19,Female&Male,Headphones,Skullcandy,2015,Female,0
+745921,17,675739,5.0,2016-01-25,Female,Camera & Photo,Fujifilm,2003,Female,0
+64754,1670,61992,5.0,2011-07-08,Female&Male,Headphones,Bose,2011,Male,0
+611103,7356,464224,1.0,2015-09-09,Female&Male,Headphones,Mpow,2015,Male,2
+1130225,2355,1013734,5.0,2017-06-28,Male,Headphones,Skullcandy,2012,Female,0
+310159,4026,289553,5.0,2014-08-14,Male,Camera & Photo,Olympus,2014,Female,0
+87612,2058,78307,5.0,2012-04-18,Female,Computers & Accessories,Apple,2012,Male,0
+196886,2956,185718,5.0,2013-11-14,Female,Computers & Accessories,Fintie,2013,Female,0
+528787,4075,484710,5.0,2015-06-11,Female&Male,Camera & Photo,Fujifilm,2015,Female,0
+1205172,6689,1079794,5.0,2017-12-14,Female&Male,Headphones,Mpow,2015,Male,0
+238692,3572,224313,4.0,2014-02-17,Female,Computers & Accessories,Etre Jeune,2013,Male,0
+1003632,2911,902060,5.0,2016-12-11,Female&Male,Camera & Photo,Gary Fong,2014,Male,0
+819296,2868,740375,5.0,2016-04-11,Female,Camera & Photo,Samsung,2013,Male,0
+628660,7828,573002,5.0,2015-09-28,Female&Male,Headphones,Bose,2015,Male,2
+1163462,7022,1043025,5.0,2017-09-04,Male,Portable Audio & Video,Bose,2015,Male,0
+843473,8192,761339,4.0,2016-05-10,Female,Computers & Accessories,Fintie,2015,Male,2
+917926,3106,826894,1.0,2016-08-11,Female,Computers & Accessories,Bose,2013,Female,0
+808286,5405,730819,5.0,2016-03-28,Female,Computers & Accessories,Apple,2014,Male,0
+734518,8084,564315,5.0,2016-01-16,Male,Television & Video,Bose,2015,Female,2
+52545,1423,50406,2.0,2010-12-15,Female,Camera & Photo,Kodak,2010,Female,0
+1071203,8115,961747,4.0,2017-03-10,Male,Portable Audio & Video,Philips,2015,Female,0
+922127,7869,141350,5.0,2016-08-16,Female,Headphones,Bose,2015,Male,2
+827694,6853,747672,5.0,2016-04-22,Female&Male,Headphones,Tiamat,2015,Female,0
+817904,5951,739169,3.0,2016-04-09,Female,Headphones,Etre Jeune,2015,Male,0
+1220234,7591,1093084,4.0,2018-01-16,Male,Headphones,Skullcandy,2015,Male,0
+171443,2903,77654,5.0,2013-08-07,Female,Computers & Accessories,Jabra,2013,Male,2
+684806,6726,530522,5.0,2015-11-28,Female&Male,Camera & Photo,Polaroid,2015,Female,1
+1025957,1242,921853,5.0,2017-01-06,Male,Headphones,Sennheiser,2010,Male,0
+1171762,6726,1050319,3.0,2017-09-22,Female&Male,Camera & Photo,Polaroid,2015,Female,0
+863072,4585,778810,5.0,2016-06-03,Female,Headphones,Sony,2018,Male,0
+1084432,2083,973463,5.0,2017-03-30,Male,Camera & Photo,Sony,2012,Male,0
+847038,7721,752169,5.0,2016-05-14,Female,Headphones,TaoTronics,2015,Male,2
+495088,1661,454811,4.0,2015-04-28,Male,Computers & Accessories,Logitech,2011,Male,0
+654625,1670,595890,4.0,2015-10-27,Female&Male,Headphones,Bose,2011,Male,0
+356948,154,2809,4.0,2014-11-04,Female&Male,Headphones,EldHus,2005,Male,2
+63378,816,60694,5.0,2011-06-15,Female&Male,Portable Audio & Video,Uniden,2008,Female,0
+577049,103,527446,1.0,2015-08-05,Female,Camera & Photo,Olympus,2003,Female,0
+390382,4203,360833,5.0,2014-12-25,Female,Headphones,Bose,2014,Female,0
+791273,6533,715776,5.0,2016-03-09,Male,Camera & Photo,Neewer,2015,Female,0
+1154904,2355,1035492,4.0,2017-08-16,Male,Headphones,Skullcandy,2012,Female,0
+124341,1575,118006,1.0,2013-01-27,Male,Headphones,Sony,2011,Male,0
+1221602,2586,1094243,5.0,2018-01-19,Female,Camera & Photo,Polaroid,2012,Female,1
+849050,111,766506,5.0,2016-05-17,Female&Male,Headphones,Panasonic,2006,Female,0
+401337,1423,358204,5.0,2015-01-05,Female,Camera & Photo,Kodak,2010,Male,2
+427831,4472,394612,5.0,2015-02-04,Female&Male,Computers & Accessories,IRULU,2014,Female,0
+436274,5407,402177,5.0,2015-02-15,Male,Computers & Accessories,HP,2014,Male,0
+918580,5806,827457,5.0,2016-08-11,Female&Male,Accessories & Supplies,Fintie,2015,Male,0
+312990,1738,292118,5.0,2014-08-19,Female,Camera & Photo,Kodak,2011,Female,0
+281913,4255,263838,5.0,2014-06-18,Female,Camera & Photo,Gary Fong,2014,Male,0
+736911,7173,667682,5.0,2016-01-18,Female&Male,Camera & Photo,Fujifilm,2015,Female,0
+178952,1661,168992,4.0,2013-09-04,Male,Computers & Accessories,Logitech,2011,Male,2
+934149,4009,841139,5.0,2016-08-31,Female&Male,Portable Audio & Video,DBPOWER,2014,Male,0
+447755,2178,412492,2.0,2015-02-27,Male,Headphones,Sennheiser,2012,Female,0
+83317,1156,79477,5.0,2012-02-24,Female,Camera & Photo,Nikon,2009,Female,0
+1290119,8341,1155064,5.0,2018-08-07,Male,Camera & Photo,Neewer,2015,Male,0
+247686,1490,232608,5.0,2014-03-11,Female,Camera & Photo,Fujifilm,2010,Female,0
+565755,5273,49236,5.0,2015-07-24,Female&Male,Portable Audio & Video,Bose,2014,Male,1
+879010,6853,792739,5.0,2016-06-24,Female&Male,Headphones,Tiamat,2015,Female,0
+492238,5009,452311,5.0,2015-04-24,Female&Male,Headphones,Mpow,2014,Male,0
+544319,4719,498444,5.0,2015-06-30,Female,Computers & Accessories,IRULU,2016,Female,0
+136002,1575,128960,4.0,2013-03-13,Male,Headphones,Sony,2011,Male,0
+1001398,111,900081,5.0,2016-12-08,Female&Male,Headphones,Panasonic,2006,Female,0
+912665,6726,822259,4.0,2016-08-04,Female&Male,Camera & Photo,Polaroid,2015,Female,0
+828702,7721,748553,5.0,2016-04-23,Female,Headphones,TaoTronics,2015,Female,0
+592772,6562,541316,5.0,2015-08-21,Female&Male,Computers & Accessories,Apple,2015,Female,0
+696064,4969,632193,5.0,2015-12-08,Male,Headphones,Bose,2015,Female,0
+1079928,7869,969482,1.0,2017-03-23,Female,Headphones,Bose,2015,Female,0
+736486,8355,667317,5.0,2016-01-18,Female&Male,Headphones,Bose,2015,Male,0
+559839,1447,512237,5.0,2015-07-18,Female&Male,Headphones,Bose,2010,Male,0
+814462,554,736224,3.0,2016-04-05,Male,Headphones,Sennheiser,2008,Female,0
+368241,4576,341261,5.0,2014-11-24,Female&Male,Headphones,EldHus,2014,Female,0
+518062,2366,475233,1.0,2015-05-28,Female,Camera & Photo,Polaroid,2012,Male,0
+181752,2400,171685,3.0,2013-09-15,Female&Male,Headphones,JLAB,2012,Female,0
+1065494,5054,401204,2.0,2017-03-01,Female&Male,Home Audio,TaoTronics,2014,Male,2
+726387,6689,658521,5.0,2016-01-08,Female&Male,Headphones,Mpow,2015,Female,0
+3728,181,3576,4.0,2005-04-13,Male,Camera & Photo,Olympus,2005,Female,0
+610736,5289,557161,5.0,2015-09-08,Female,Accessories & Supplies,EldHus,2014,Female,0
+416242,5009,384294,2.0,2015-01-20,Female&Male,Headphones,Mpow,2014,Male,0
+219140,2916,206205,4.0,2014-01-05,Female&Male,Camera & Photo,Canon,2013,Female,0
+54997,647,52750,3.0,2011-01-14,Male,Computers & Accessories,Logitech,2008,Male,0
+518378,2031,80212,5.0,2015-05-29,Female,Computers & Accessories,Logitech,2012,Female,0
+379598,5407,351237,4.0,2014-12-10,Male,Computers & Accessories,HP,2014,Female,0
+69798,927,50553,5.0,2011-09-30,Female,Accessories & Supplies,EldHus,2009,Male,2
+1056577,162,948887,5.0,2017-02-15,Male,Headphones,Sennheiser,2004,Male,0
+76781,647,73286,2.0,2011-12-25,Male,Computers & Accessories,Logitech,2008,Female,0
+289288,3688,270540,3.0,2014-07-07,Female,Camera & Photo,Pyle,2014,Male,0
+454881,3342,393850,5.0,2015-03-07,Female,Portable Audio & Video,DBPOWER,2014,Male,2
+325148,4922,267514,5.0,2014-09-10,Female&Male,Headphones,TaoTronics,2014,Female,0
+474477,2903,436399,2.0,2015-03-31,Female,Computers & Accessories,Jabra,2013,Female,0
+1010641,9380,907833,4.0,2016-12-20,Female&Male,Headphones,Panasonic,2016,Male,2
+49642,694,47665,4.0,2010-10-16,Female,Computers & Accessories,Linksys,2008,Female,0
+545911,1661,499866,4.0,2015-07-02,Male,Computers & Accessories,Logitech,2011,Male,0
+347826,3133,323274,5.0,2014-10-19,Female,Computers & Accessories,Fintie,2013,Female,0
+130136,1087,123463,5.0,2013-02-18,Female,Camera & Photo,Sony,2009,Male,0
+525118,3524,481494,5.0,2015-06-06,Male,Headphones,Skullcandy,2014,Male,0
+974257,5041,876268,4.0,2016-10-26,Male,Headphones,Bose,2014,Male,0
+391805,2880,362132,5.0,2014-12-27,Female&Male,Headphones,TaoTronics,2013,Female,0
+897505,6355,808940,4.0,2016-07-18,Male,Computers & Accessories,LSS,2015,Female,0
+879481,7869,752151,5.0,2016-06-24,Female,Headphones,Bose,2015,Male,2
+879999,6434,70597,4.0,2016-06-25,Male,Camera & Photo,Canon,2015,Male,1
+692726,7202,629298,3.0,2015-12-05,Male,Headphones,Sony,2015,Male,0
+1151292,7022,1032279,5.0,2017-08-10,Male,Portable Audio & Video,Bose,2015,Female,0
+437737,3384,403487,5.0,2015-02-16,Female,Camera & Photo,Fujifilm,2014,Female,0
+137380,2400,130254,5.0,2013-03-19,Female&Male,Headphones,JLAB,2012,Female,0
+44320,1055,34732,2.0,2010-06-09,Female,Computers & Accessories,Linksys,2009,Male,1
+1214270,4076,1087812,3.0,2018-01-04,Female&Male,Camera & Photo,Gary Fong,2014,Female,0
+987873,3572,609315,5.0,2016-11-18,Female,Computers & Accessories,Etre Jeune,2013,Female,2
+211694,2488,199308,5.0,2013-12-23,Male,Headphones,Skullcandy,2013,Female,0
+166707,2994,157599,4.0,2013-07-19,Female&Male,Portable Audio & Video,DBPOWER,2013,Male,0
+538665,7213,65170,3.0,2015-06-23,Female&Male,Headphones,Philips,2015,Female,1
+940911,4252,777881,2.0,2016-09-09,Female,Headphones,Bose,2014,Female,2
+1096828,9125,984377,5.0,2017-04-21,Female,Headphones,EldHus,2016,Male,0
+68971,1055,66001,4.0,2011-09-18,Female,Computers & Accessories,Linksys,2009,Female,0
+181331,111,171292,4.0,2013-09-13,Female&Male,Headphones,Panasonic,2006,Female,0
+951226,647,856118,1.0,2016-09-22,Male,Computers & Accessories,Logitech,2008,Female,0
+1278851,8077,1144953,1.0,2018-06-20,Female,Camera & Photo,Neewer,2015,Female,0
+774970,3403,701300,5.0,2016-02-22,Female&Male,Headphones,EldHus,2013,Male,0
+1286915,4753,1152162,3.0,2018-07-23,Female&Male,Portable Audio & Video,Pyle,2014,Female,0
+24680,710,23892,5.0,2009-01-08,Female,Computers & Accessories,Linksys,2008,Female,0
+402583,827,371977,5.0,2015-01-05,Male,Home Audio,Pyle,2009,Male,0
+790554,5806,715120,5.0,2016-03-08,Female&Male,Accessories & Supplies,Fintie,2015,Male,0
+977434,7888,879030,5.0,2016-11-01,Female&Male,Headphones,TaoTronics,2015,Female,0
+602008,7526,43855,4.0,2015-08-30,Male,Headphones,Philips,2015,Male,2
+1100205,6726,987350,5.0,2017-04-27,Female&Male,Camera & Photo,Polaroid,2015,Female,0
+511317,5273,219468,5.0,2015-05-19,Female&Male,Portable Audio & Video,Bose,2014,Female,0
+205314,1861,193434,5.0,2013-12-07,Female,Accessories & Supplies,EldHus,2011,Male,0
+293811,4183,274668,5.0,2014-07-15,Female,Accessories & Supplies,EldHus,2014,Female,0
+477677,6494,439250,5.0,2015-04-05,Male,Camera & Photo,Samsung,2015,Female,0
+36923,259,35524,5.0,2009-12-30,Male,Headphones,Sennheiser,2005,Male,0
+385262,1797,356239,5.0,2014-12-18,Male,Car Electronics & GPS,Garmin,2011,Male,0
+739264,6687,70567,5.0,2016-01-20,Female&Male,Headphones,Mpow,2015,Female,1
+279583,2129,261706,5.0,2014-06-11,Female&Male,Television & Video,Samsung,2012,Female,0
+222111,1841,209009,4.0,2014-01-10,Female,Camera & Photo,Kodak,2012,Male,0
+738039,4821,668698,5.0,2016-01-19,Female,Accessories & Supplies,ebasy,2014,Female,0
+1171831,1327,1050379,2.0,2017-09-22,Female,Camera & Photo,Polaroid,2010,Female,0
+387440,1258,358193,5.0,2014-12-21,Female&Male,Camera & Photo,Fujifilm,2010,Female,0
+958224,8282,862219,2.0,2016-10-02,Female,Accessories & Supplies,EldHus,2015,Female,0
+84156,1605,80253,5.0,2012-03-06,Female,Camera & Photo,Neewer,2011,Female,0
+891756,7785,803921,5.0,2016-07-11,Female&Male,Camera & Photo,Polaroid,2017,Female,0
+298143,4387,269,5.0,2014-07-23,Female&Male,Camera & Photo,Olympus,2014,Male,0
+290954,1605,272061,4.0,2014-07-10,Female,Camera & Photo,Neewer,2011,Female,0
+282861,521,264684,4.0,2014-06-20,Male,Camera & Photo,Olympus,2008,Male,0
+252182,1236,236749,5.0,2014-03-23,Female&Male,Home Audio,Pyle,2011,Male,0
+1129115,5748,957867,5.0,2017-06-26,Female&Male,Portable Audio & Video,Mpow,2015,Male,1
+2895,154,2787,5.0,2004-11-01,Female&Male,Headphones,EldHus,2005,Male,0
+462630,4252,425783,5.0,2015-03-16,Female,Headphones,Bose,2014,Female,0
+181606,1323,171550,3.0,2013-09-14,Male,Car Electronics & GPS,Garmin,2010,Female,0
+784938,4009,710126,5.0,2016-03-03,Female&Male,Portable Audio & Video,DBPOWER,2014,Male,0
+751548,647,680685,5.0,2016-01-30,Male,Computers & Accessories,Logitech,2008,Female,0
+131550,2129,124784,4.0,2013-02-23,Female&Male,Television & Video,Samsung,2012,Male,0
+217177,2129,204393,5.0,2014-01-02,Female&Male,Television & Video,Samsung,2012,Female,0
+671312,186,610573,5.0,2015-11-13,Female,Camera & Photo,Sony,2004,Male,0
+434857,647,400890,4.0,2015-02-13,Male,Computers & Accessories,Logitech,2008,Male,0
+377782,2400,349609,3.0,2014-12-08,Female&Male,Headphones,JLAB,2012,Female,0
+987917,5054,888239,4.0,2016-11-18,Female&Male,Home Audio,TaoTronics,2014,Male,0
+942714,3195,848666,5.0,2016-09-11,Female&Male,Portable Audio & Video,Bose,2013,Female,0
+600176,4252,547823,5.0,2015-08-28,Female,Headphones,Bose,2014,Male,0
+808259,6726,730796,5.0,2016-03-28,Female&Male,Camera & Photo,Polaroid,2015,Female,0
+1042683,7869,936669,5.0,2017-01-26,Female,Headphones,Bose,2015,Female,0
+980967,6689,167478,5.0,2016-11-07,Female&Male,Headphones,Mpow,2015,Male,2
+828218,1272,748131,5.0,2016-04-23,Female&Male,Headphones,Etre Jeune,2010,Male,0
+987440,3092,887823,5.0,2016-11-17,Female,Headphones,Sony,2013,Female,0
+316233,1258,295079,4.0,2014-08-25,Female&Male,Camera & Photo,Fujifilm,2010,Female,0
+789882,4446,714508,5.0,2016-03-08,Female&Male,Headphones,TaoTronics,2014,Female,0
+214486,1882,201905,4.0,2013-12-29,Female&Male,Headphones,JLAB,2011,Male,0
+536435,6689,491477,4.0,2015-06-20,Female&Male,Headphones,Mpow,2015,Female,0
+308715,1236,288230,5.0,2014-08-12,Female&Male,Home Audio,Pyle,2011,Male,0
+944192,4152,849980,5.0,2016-09-13,Male,Car Electronics & GPS,Garmin,2014,Male,0
+562807,2522,514842,5.0,2015-07-21,Male,Camera & Photo,Olympus,2012,Female,0
+1270124,6819,793249,5.0,2018-05-22,Female&Male,Headphones,Mpow,2015,Male,2
+331308,2228,308675,4.0,2014-09-20,Female&Male,Headphones,Sennheiser,2013,Male,0
+423109,3173,390377,4.0,2015-01-29,Female&Male,Computers & Accessories,ViewSonic,2013,Male,0
+622573,3556,567604,5.0,2015-09-21,Female&Male,Computers & Accessories,Plemo,2013,Male,0
+202441,1889,190803,5.0,2013-11-29,Female,Camera & Photo,Kodak,2011,Male,0
+961731,1861,446612,5.0,2016-10-07,Female,Accessories & Supplies,EldHus,2011,Male,2
+11215,296,10874,5.0,2007-07-04,Female,Camera & Photo,Nikon,2006,Male,0
+749843,7202,136012,4.0,2016-01-28,Male,Headphones,Sony,2015,Female,1
+434766,1156,400805,4.0,2015-02-13,Female,Camera & Photo,Nikon,2009,Male,0
+734659,647,665728,4.0,2016-01-16,Male,Computers & Accessories,Logitech,2008,Male,0
+390091,3150,360564,5.0,2014-12-25,Male,Headphones,Philips,2013,Male,0
+619843,5703,268041,5.0,2015-09-18,Female&Male,Camera & Photo,Fujifilm,2015,Female,0
+514150,2469,471743,4.0,2015-05-23,Female&Male,Headphones,Bose,2012,Male,0
+357590,1419,62743,1.0,2014-11-05,Female,Camera & Photo,Linksys,2010,Male,2
+901475,7405,300714,5.0,2016-07-22,Male,Car Electronics & GPS,Uniden,2016,Male,2
+155805,2031,147438,5.0,2013-06-05,Female,Computers & Accessories,Logitech,2012,Male,0
+398759,5899,22916,5.0,2015-01-02,Female,Headphones,Mpow,2015,Female,0
+872246,2600,786823,4.0,2016-06-15,Male,Computers & Accessories,Logitech,2012,Male,0
+1124213,111,1008478,4.0,2017-06-15,Female&Male,Headphones,Panasonic,2006,Male,0
+1216871,9537,1090104,4.0,2018-01-09,Female&Male,Headphones,Panasonic,2017,Female,0
+474506,6562,316321,4.0,2015-03-31,Female&Male,Computers & Accessories,Apple,2015,Male,1
+530842,3173,483463,5.0,2015-06-13,Female&Male,Computers & Accessories,ViewSonic,2013,Male,2
+1194462,2355,1070411,5.0,2017-11-17,Male,Headphones,Skullcandy,2012,Female,0
+674172,8609,613057,5.0,2015-11-17,Female&Male,Camera & Photo,Nikon,2016,Female,0
+515123,1405,472615,5.0,2015-05-24,Female,Camera & Photo,Kodak,2010,Female,0
+623515,7828,542713,2.0,2015-09-22,Female&Male,Headphones,Bose,2015,Male,1
+732542,111,663879,3.0,2016-01-14,Female&Male,Headphones,Panasonic,2006,Male,0
+174802,1461,165163,5.0,2013-08-20,Female&Male,Headphones,Pyle,2010,Female,0
+452659,5215,416892,5.0,2015-03-04,Male,Headphones,Bose,2014,Male,0
+683432,7559,621158,5.0,2015-11-26,Female&Male,Headphones,TaoTronics,2015,Male,0
+387667,4177,358395,5.0,2014-12-21,Female,Television & Video,Toshiba,2014,Male,0
+698609,7721,634358,5.0,2015-12-11,Female,Headphones,TaoTronics,2015,Female,0
+736798,4203,667584,5.0,2016-01-18,Female,Headphones,Bose,2014,Female,0
+713603,5054,513867,4.0,2015-12-28,Female&Male,Home Audio,TaoTronics,2014,Male,2
+326998,4387,304844,4.0,2014-09-13,Female&Male,Camera & Photo,Olympus,2014,Female,0
+4196,195,4025,3.0,2005-07-23,Male,Camera & Photo,Sony,2005,Male,0
+90237,1670,85934,5.0,2012-05-23,Female&Male,Headphones,Bose,2011,Female,0
+241655,4028,227038,5.0,2014-02-24,Male,Camera & Photo,Fujifilm,2014,Male,0
+57869,160,55491,3.0,2011-03-01,Female,Camera & Photo,Olympus,2004,Male,0
+757441,7828,685891,1.0,2016-02-05,Female&Male,Headphones,Bose,2015,Female,0
+243148,111,228426,4.0,2014-02-28,Female&Male,Headphones,Panasonic,2006,Female,0
+1267877,5041,201446,5.0,2018-05-15,Male,Headphones,Bose,2014,Male,2
+185017,1690,91038,5.0,2013-09-29,Female,Camera & Photo,Kodak,2011,Male,1
+306861,3461,286181,3.0,2014-08-08,Male,Headphones,Philips,2013,Male,2
+220256,2129,207260,5.0,2014-01-07,Female&Male,Television & Video,Samsung,2012,Male,0
+936020,8004,842784,5.0,2016-09-02,Female,Camera & Photo,Mpow,2015,Female,0
+218438,1780,205351,1.0,2014-01-04,Male,Computers & Accessories,Logitech,2011,Male,1
+483564,1575,208549,5.0,2015-04-13,Male,Headphones,Sony,2011,Male,2
+236061,1936,35918,5.0,2014-02-11,Female,Headphones,JLAB,2012,Female,2
+385745,1882,181119,5.0,2014-12-18,Female&Male,Headphones,JLAB,2011,Male,2
+544727,4252,498804,5.0,2015-06-30,Female,Headphones,Bose,2014,Male,0
+1034366,9202,929301,4.0,2017-01-16,Female&Male,Headphones,Tiamat,2016,Male,0
+1058470,2031,950565,5.0,2017-02-18,Female,Computers & Accessories,Logitech,2012,Male,0
+21971,283,21301,4.0,2008-10-12,Female&Male,Car Electronics & GPS,Garmin,2005,Female,0
+69252,1758,30582,4.0,2011-09-22,Male,Headphones,Jabra,2011,Male,0
+413628,5951,81833,5.0,2015-01-17,Female,Headphones,Etre Jeune,2015,Male,0
+663525,1259,603728,4.0,2015-11-05,Male,Portable Audio & Video,Philips,2010,Female,0
+157688,1806,149222,5.0,2013-06-12,Male,Headphones,Bose,2011,Male,0
+35318,1194,34001,1.0,2009-11-30,Female&Male,Camera & Photo,ViewSonic,2010,Male,0
+409184,647,377948,5.0,2015-01-12,Male,Computers & Accessories,Logitech,2008,Female,0
+126713,1124,120255,5.0,2013-02-04,Male,Computers & Accessories,Logitech,2009,Male,0
+862232,2254,682395,5.0,2016-06-02,Female&Male,Portable Audio & Video,Uniden,2013,Female,0
+852760,8835,203446,5.0,2016-05-22,Female,Headphones,Etre Jeune,2016,Male,1
+594236,7597,194685,5.0,2015-08-22,Male,Car Electronics & GPS,Garmin,2015,Male,2
+1097024,6726,984459,5.0,2017-04-21,Female&Male,Camera & Photo,Polaroid,2015,Female,2
+888770,1861,539748,5.0,2016-07-07,Female,Accessories & Supplies,EldHus,2011,Male,2
+455893,1258,419781,5.0,2015-03-08,Female&Male,Camera & Photo,Fujifilm,2010,Female,0
+1000312,2072,899127,5.0,2016-12-07,Female&Male,Headphones,ebasy,2012,Male,0
+4137,237,3969,5.0,2005-07-10,Female,Camera & Photo,Panasonic,2005,Female,0
+929883,154,837418,5.0,2016-08-25,Female&Male,Headphones,EldHus,2005,Female,0
+519432,4874,476147,3.0,2015-05-30,Male,Headphones,JLAB,2014,Female,2
+1119474,6444,1004283,5.0,2017-06-05,Female&Male,Camera & Photo,Fujifilm,2015,Female,0
+764155,5992,691769,5.0,2016-02-12,Female&Male,Camera & Photo,Canon,2015,Female,0
+1288443,5178,1153543,1.0,2018-07-30,Male,Headphones,Skullcandy,2014,Female,0
+40320,1214,38785,5.0,2010-03-01,Male,Camera & Photo,Sony,2010,Female,0
+193114,3090,182229,2.0,2013-10-30,Female,Home Audio,Pyle,2013,Female,0
+533819,5171,489162,5.0,2015-06-17,Female&Male,Portable Audio & Video,Bose,2014,Male,0
+921898,7022,830403,5.0,2016-08-16,Male,Portable Audio & Video,Bose,2015,Male,0
+983941,261,884770,3.0,2016-11-12,Female&Male,Camera & Photo,Kodak,2005,Male,0
+457081,5405,261441,5.0,2015-03-10,Female,Computers & Accessories,Apple,2014,Female,2
+332836,2031,310052,5.0,2014-09-22,Female,Computers & Accessories,Logitech,2012,Male,0
+503629,5171,462406,5.0,2015-05-09,Female&Male,Portable Audio & Video,Bose,2014,Male,0
+717234,4821,650549,5.0,2015-12-31,Female,Accessories & Supplies,ebasy,2014,Female,0
+820726,426,741613,5.0,2016-04-13,Female,Accessories & Supplies,Logitech,2007,Female,0
+842570,8074,760790,1.0,2016-05-09,Female&Male,Television & Video,DBPOWER,2015,Female,0
+587374,1323,536520,5.0,2015-08-16,Male,Car Electronics & GPS,Garmin,2010,Male,0
+1261570,5041,1103921,4.0,2018-04-25,Male,Headphones,Bose,2014,Female,2
+819958,2903,740957,4.0,2016-04-12,Female,Computers & Accessories,Jabra,2013,Male,0
+1191459,111,1067752,5.0,2017-11-10,Female&Male,Headphones,Panasonic,2006,Female,0
+537325,1575,492250,3.0,2015-06-22,Male,Headphones,Sony,2011,Female,0
+316899,3162,295681,3.0,2014-08-26,Female,Camera & Photo,Samsung,2013,Female,0
+96998,1670,92273,5.0,2012-08-20,Female&Male,Headphones,Bose,2011,Male,0
+454507,111,418550,4.0,2015-03-06,Female&Male,Headphones,Panasonic,2006,Male,0
+306115,1447,113040,1.0,2014-08-07,Female&Male,Headphones,Bose,2010,Male,0
+438040,3106,213518,3.0,2015-02-17,Female,Computers & Accessories,Bose,2013,Male,0
+600388,5171,548008,5.0,2015-08-28,Female&Male,Portable Audio & Video,Bose,2014,Female,0
+976891,8862,878540,1.0,2016-10-31,Female&Male,Camera & Photo,Neewer,2016,Male,0
+393043,1258,363265,5.0,2014-12-28,Female&Male,Camera & Photo,Fujifilm,2010,Male,0
+417021,5951,370382,4.0,2015-01-21,Female,Headphones,Etre Jeune,2015,Male,0
+1020402,7828,894644,5.0,2017-01-01,Female&Male,Headphones,Bose,2015,Male,1
+400267,3150,369857,4.0,2015-01-04,Male,Headphones,Philips,2013,Male,0
+39109,1012,37627,4.0,2010-02-06,Male,Camera & Photo,Fujifilm,2009,Male,0
+721979,5096,654682,5.0,2016-01-05,Female&Male,Home Audio,Pyle,2014,Male,0
+660487,259,601013,4.0,2015-11-02,Male,Headphones,Sennheiser,2005,Male,0
+366878,1473,340035,5.0,2014-11-22,Female,Accessories & Supplies,Etre Jeune,2010,Male,0
+465483,3539,428356,4.0,2015-03-20,Female,Accessories & Supplies,EldHus,2013,Female,0
+872073,8701,786672,3.0,2016-06-15,Female&Male,Headphones,EldHus,2015,Female,0
+285917,332,124233,1.0,2014-06-29,Female&Male,Portable Audio & Video,Sony,2011,Male,1
+681413,6018,619394,5.0,2015-11-24,Female,Camera & Photo,Fujifilm,2015,Male,0
+145372,1124,111149,4.0,2013-04-21,Male,Computers & Accessories,Logitech,2009,Male,0
+1032949,5146,928068,5.0,2017-01-14,Female,Headphones,Jabra,2014,Female,0
+907731,7022,817932,5.0,2016-07-29,Male,Portable Audio & Video,Bose,2015,Male,0
+533361,259,488743,2.0,2015-06-16,Male,Headphones,Sennheiser,2005,Male,0
+1186258,7869,1063136,5.0,2017-10-28,Female,Headphones,Bose,2015,Female,0
+672476,6745,611572,1.0,2015-11-15,Female&Male,Camera & Photo,Nikon,2015,Male,0
+76990,259,73486,4.0,2011-12-26,Male,Headphones,Sennheiser,2005,Female,0
+1033333,4009,880431,5.0,2017-01-14,Female&Male,Portable Audio & Video,DBPOWER,2014,Male,2
+594943,2253,543203,5.0,2015-08-23,Female&Male,Computers & Accessories,Jabra,2012,Female,0
+930966,5741,838234,5.0,2016-08-27,Male,Computers & Accessories,LSS,2016,Female,2
+16033,537,15575,4.0,2008-02-10,Female,Camera & Photo,Kodak,2007,Female,0
+293836,1825,274689,5.0,2014-07-15,Female&Male,Headphones,Bose,2011,Female,0
+983899,6835,884732,1.0,2016-11-11,Female,Headphones,Mpow,2015,Male,0
+257619,1780,85343,2.0,2014-04-08,Male,Computers & Accessories,Logitech,2011,Male,0
+207091,3090,195050,5.0,2013-12-11,Female,Home Audio,Pyle,2013,Male,0
+452117,5054,416405,5.0,2015-03-04,Female&Male,Home Audio,TaoTronics,2014,Female,0
+67515,1469,64620,5.0,2011-08-25,Male,Headphones,Philips,2011,Female,0
+911285,3403,201445,5.0,2016-08-03,Female&Male,Headphones,EldHus,2013,Female,2
+217406,927,23460,4.0,2014-01-03,Female,Accessories & Supplies,EldHus,2009,Male,1
+910940,8192,134310,5.0,2016-08-02,Female,Computers & Accessories,Fintie,2015,Female,2
+544228,7213,27386,4.0,2015-06-30,Female&Male,Headphones,Philips,2015,Male,1
+873068,162,787552,5.0,2016-06-16,Male,Headphones,Sennheiser,2004,Female,0
+324833,4150,302902,5.0,2014-09-09,Female&Male,Camera & Photo,Fujifilm,2014,Female,0
+293295,2410,274201,1.0,2014-07-14,Female&Male,Portable Audio & Video,Pyle,2013,Female,0
+283406,4076,265182,4.0,2014-06-22,Female&Male,Camera & Photo,Gary Fong,2014,Female,0
+820769,5027,741651,5.0,2016-04-13,Male,Computers & Accessories,LSS,2014,Female,0
+694095,7356,630488,3.0,2015-12-07,Female&Male,Headphones,Mpow,2015,Male,0
+1157110,6871,1037454,3.0,2017-08-21,Female,Headphones,Etre Jeune,2015,Female,0
+1285886,3967,1151255,5.0,2018-07-19,Female,Camera & Photo,Olympus,2014,Female,0
+850514,1549,767787,4.0,2016-05-18,Female,Computers & Accessories,EldHus,2012,Female,0
+1059818,8061,951752,5.0,2017-02-21,Female&Male,Headphones,EldHus,2015,Male,0
+866351,1447,781701,5.0,2016-06-07,Female&Male,Headphones,Bose,2010,Female,0
+784677,3106,709891,5.0,2016-03-03,Female,Computers & Accessories,Bose,2013,Female,0
+1216649,3106,1089900,5.0,2018-01-09,Female,Computers & Accessories,Bose,2013,Female,0
+961216,1270,237535,5.0,2016-10-07,Female&Male,Camera & Photo,Canon,2010,Male,2
+163265,111,154406,5.0,2013-07-06,Female&Male,Headphones,Panasonic,2006,Male,0
+186693,827,176284,5.0,2013-10-05,Male,Home Audio,Pyle,2009,Female,0
+724832,2900,657183,5.0,2016-01-07,Female&Male,Headphones,Jabra,2013,Male,0
+328246,3539,305965,5.0,2014-09-15,Female,Accessories & Supplies,EldHus,2013,Male,0
+184968,1750,174657,1.0,2013-09-29,Male,Accessories & Supplies,Jabra,2011,Male,0
+73573,111,70268,5.0,2011-11-22,Female&Male,Headphones,Panasonic,2006,Male,0
+1247843,4009,1117657,5.0,2018-03-21,Female&Male,Portable Audio & Video,DBPOWER,2014,Male,0
+1142429,3106,606385,5.0,2017-07-25,Female,Computers & Accessories,Bose,2013,Male,1
+1039631,8341,933990,5.0,2017-01-22,Male,Camera & Photo,Neewer,2015,Male,0
+1062652,162,954212,5.0,2017-02-25,Male,Headphones,Sennheiser,2004,Female,0
+295617,1861,276323,5.0,2014-07-19,Female,Accessories & Supplies,EldHus,2011,Male,0
+36231,283,34867,1.0,2009-12-19,Female&Male,Car Electronics & GPS,Garmin,2005,Male,0
+565970,5354,517623,1.0,2015-07-24,Female&Male,Computers & Accessories,Fintie,2014,Male,0
+1225654,6745,1097908,5.0,2018-01-28,Female&Male,Camera & Photo,Nikon,2015,Male,0
+122823,795,116582,4.0,2013-01-21,Female,Camera & Photo,Sony,2008,Female,0
+416334,3524,384378,4.0,2015-01-20,Male,Headphones,Skullcandy,2014,Female,0
+260426,2129,244271,5.0,2014-04-16,Female&Male,Television & Video,Samsung,2012,Male,0
+36201,419,34837,1.0,2009-12-18,Female,Computers & Accessories,Linksys,2007,Male,0
+1080294,6835,969804,3.0,2017-03-23,Female,Headphones,Mpow,2015,Female,0
+411448,5950,4932,4.0,2015-01-14,Female,Headphones,Mpow,2015,Female,0
+1094787,1575,982579,4.0,2017-04-17,Male,Headphones,Sony,2011,Female,0
+479848,5150,441186,3.0,2015-04-07,Male,Computers & Accessories,LSS,2018,Male,0
+688867,8466,73807,4.0,2015-12-02,Female,Accessories & Supplies,Etre Jeune,2015,Female,2
+297217,1270,277788,5.0,2014-07-22,Female&Male,Camera & Photo,Canon,2010,Male,0
+1013738,511,823724,5.0,2016-12-25,Female&Male,Home Audio,Sony,2007,Male,1
+254881,2129,239222,5.0,2014-03-31,Female&Male,Television & Video,Samsung,2012,Female,0
+388423,259,359073,4.0,2014-12-22,Male,Headphones,Sennheiser,2005,Male,0
+426538,4574,393443,2.0,2015-02-03,Female,Computers & Accessories,IRULU,2014,Female,0
+612080,4387,558369,5.0,2015-09-10,Female&Male,Camera & Photo,Olympus,2014,Male,0
+126060,638,119645,3.0,2013-02-02,Male,Car Electronics & GPS,Pyle,2008,Male,0
+357392,1258,331703,5.0,2014-11-05,Female&Male,Camera & Photo,Fujifilm,2010,Female,0
+1254516,3106,1123550,5.0,2018-04-07,Female,Computers & Accessories,Bose,2013,Female,0
+1285629,8077,1151027,5.0,2018-07-18,Female,Camera & Photo,Neewer,2015,Female,0
+1280157,4191,1144917,1.0,2018-06-25,Female&Male,Portable Audio & Video,Pyle,2014,Male,2
+405446,5974,30677,5.0,2015-01-08,Female,Portable Audio & Video,Mpow,2015,Female,0
+150219,1776,142240,1.0,2013-05-13,Female,Camera & Photo,Kodak,2011,Female,0
+368158,5009,341185,5.0,2014-11-24,Female&Male,Headphones,Mpow,2014,Male,0
+588911,17,369931,5.0,2015-08-17,Female,Camera & Photo,Fujifilm,2003,Male,2
+992377,4009,892169,1.0,2016-11-26,Female&Male,Portable Audio & Video,DBPOWER,2014,Female,0
+20246,705,19641,5.0,2008-08-09,Female,Camera & Photo,Nikon,2008,Male,0
+949552,7884,854650,2.0,2016-09-20,Female&Male,Headphones,Mpow,2015,Male,0
+192178,1496,153759,5.0,2013-10-27,Female&Male,Headphones,JLAB,2010,Female,1
+883134,4128,331396,5.0,2016-06-29,Female,Headphones,Jabra,2014,Male,1
+819288,5178,740369,4.0,2016-04-11,Male,Headphones,Skullcandy,2014,Female,0
+54048,1119,51840,4.0,2011-01-02,Female,Camera & Photo,Kodak,2009,Male,0
+100667,1445,95675,4.0,2012-09-30,Male,Computers & Accessories,Logitech,2010,Male,0
+1206903,6819,1081304,4.0,2017-12-18,Female&Male,Headphones,Mpow,2015,Female,0
+756688,6396,685234,3.0,2016-02-04,Male,Headphones,Generic,2015,Female,0
+258310,3288,14575,5.0,2014-04-09,Female,Computers & Accessories,Logitech,2013,Female,2
+347924,1575,323359,5.0,2014-10-19,Male,Headphones,Sony,2011,Female,0
+265093,1575,248542,5.0,2014-04-29,Male,Headphones,Sony,2011,Female,0
+696890,6020,632911,1.0,2015-12-09,Male,Headphones,Mpow,2015,Female,0
+71773,1604,68593,5.0,2011-10-29,Male,Television & Video,Panasonic,2011,Male,0
+444285,3106,409372,4.0,2015-02-23,Female,Computers & Accessories,Bose,2013,Male,0
+142266,2085,134809,2.0,2013-04-08,Male,Camera & Photo,Sony,2012,Male,0
+776863,4255,702963,5.0,2016-02-24,Female,Camera & Photo,Gary Fong,2014,Male,0
+165640,1605,156491,5.0,2013-07-15,Female,Camera & Photo,Neewer,2011,Male,0
+620090,111,565419,2.0,2015-09-18,Female&Male,Headphones,Panasonic,2006,Female,0
+994066,3106,893631,2.0,2016-11-29,Female,Computers & Accessories,Bose,2013,Male,0
